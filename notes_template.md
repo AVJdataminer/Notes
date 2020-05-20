@@ -8,9 +8,9 @@
  - 
 
 # section for todoist items
--
+- Upload short courses to github
 - 
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTg2MjM4NTYsMjExMzE4NTIyOV19
+eyJoaXN0b3J5IjpbMTY5MTE4MTI2NywyMTEzMTg1MjI5XX0=
 -->
