@@ -1,5 +1,8 @@
 # 
-
+#### 21 May 2020
+- clean up github for websites
+- just simple git repo for now
+- review blot.im
 #### 20 May 2020
 
  - This is tough
@@ -10,9 +13,9 @@
 # section for todoist items
 - Upload short courses to github as markdowns
 - Upload Medium articles as markdowns
---  First copy and paste to stack edit then save 
+--  First copy and paste to stack edit then save as markdown and html
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE3OTg5NDU4LDE2OTExODEyNjcsMjExMz
-E4NTIyOV19
+eyJoaXN0b3J5IjpbMTY5Nzg5NTYxOCwxNjkxMTgxMjY3LDIxMT
+MxODUyMjldfQ==
 -->
