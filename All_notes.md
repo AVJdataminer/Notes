@@ -12,7 +12,7 @@
 Example projects:
 	
  - Mobility Explorer - real time traffic in city using object detetion and ui integration (demo on dev post website)
- [enter link description here](https://github.com/AVJdataminer/Notes/blob/master/screenshots/Screen%20Shot%202020-05-21%20at%2010.30.46%20AM.png)
+ [enter link description here](https://github.com/AVJdataminer/Notes/master/screenshots/Screen%20Shot%202020-05-21%20at%2010.30.46%20AM.png)
  
  - 
 ## How to change Screenshot folder
@@ -44,7 +44,7 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Upload guided capstone notebooks as markdown and html as well as Jupyter
 - Set up auto forward from amazon to todoist packages
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ4NjY2NTg4LC0xODg0Mzc5MjU4LDI1Nj
-YzODAwNiwxMjYxMjI3ODM4LDUyNDU0MjIzMCw1NTk4NjEwOTJd
-fQ==
+eyJoaXN0b3J5IjpbLTEzOTYwMDg2NTQsLTE4ODQzNzkyNTgsMj
+U2NjM4MDA2LDEyNjEyMjc4MzgsNTI0NTQyMjMwLDU1OTg2MTA5
+Ml19
 -->
