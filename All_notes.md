@@ -1,7 +1,8 @@
 # 
 #### 21 May 2020
- - clean up github for websites
  - just simple git repo for now
+ - Check out [Fastpages for github pages](https://fastpages.fast.ai/) blog with markdowns
+ - 
  
 ### From AWS marketplace developer ML powered solution
  - model zoo's
@@ -46,7 +47,7 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Set up auto forward from amazon to todoist packages
 - write a program to create raw urls for notes screenshots and all other files on github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MzMwNTQ4MiwtMTg4NDM3OTI1OCwyNT
-Y2MzgwMDYsMTI2MTIyNzgzOCw1MjQ1NDIyMzAsNTU5ODYxMDky
-XX0=
+eyJoaXN0b3J5IjpbLTY0NTgyMDI0NiwyMDQzMzA1NDgyLC0xOD
+g0Mzc5MjU4LDI1NjYzODAwNiwxMjYxMjI3ODM4LDUyNDU0MjIz
+MCw1NTk4NjEwOTJdfQ==
 -->
