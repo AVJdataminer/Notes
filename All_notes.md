@@ -1,14 +1,17 @@
 # 
 #### 21 May 2020
-- clean up github for websites
-- just simple git repo for now
+ - clean up github for websites
+ - just simple git repo for now
  
-From AWS marketplace developer ML powered soln
-- model zoo's
-- transfer learning to adapt current models to specific needs
-- everything built has an api included
-- Plug models into applications
-
+### From AWS marketplace developer ML powered solution
+ - model zoo's
+ - transfer learning to adapt current models to specific needs
+ - everything built has an api included
+ - Plug models into applications
+ 
+Example projects:
+	
+ - Mobility Explorer - real time traffic in city using object detetion and 
 
 #### 20 May 2020
 
@@ -26,5 +29,6 @@ From AWS marketplace developer ML powered soln
 - Upload guided capstone notebooks as markdown and html as well as Jupyter
 - Set up auto forward from amazon to todoist packages
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI0NTQyMjMwLDU1OTg2MTA5Ml19
+eyJoaXN0b3J5IjpbMTE1MjEzMDg0NCw1MjQ1NDIyMzAsNTU5OD
+YxMDkyXX0=
 -->
