@@ -14,7 +14,15 @@ Example projects:
  - Mobility Explorer - real time traffic in city using object detetion and ui integration (demo on dev post website)
  
  - 
+## How to save and quit the vi or vim text editor
 
+To save and quit the vi or vim editor with saving any changes you have made:
+
+1.  If you are currently in insert or append mode, press  Esc  key.
+2.  Press  :  (colon). The cursor should reappear at the lower left corner of the screen beside a colon prompt.
+3.  Enter the following command (type  :x  and press  Enter  key):
+    
+    :x
 #### 20 May 2020
 
  - This is tough
@@ -31,6 +39,6 @@ Example projects:
 - Upload guided capstone notebooks as markdown and html as well as Jupyter
 - Set up auto forward from amazon to todoist packages
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MTIyNzgzOCw1MjQ1NDIyMzAsNTU5OD
-YxMDkyXX0=
+eyJoaXN0b3J5IjpbLTE4Mzc5OTQ2MDIsMTI2MTIyNzgzOCw1Mj
+Q1NDIyMzAsNTU5ODYxMDkyXX0=
 -->
