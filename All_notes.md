@@ -1,7 +1,8 @@
 # 
 #### 21 May 2020
- - clean up github for websites
  - just simple git repo for now
+ - Check out [Fastpages for github pages](https://fastpages.fast.ai/) blog with markdowns
+ - Add a python program to insert images in notes based on name or dates specified in location
  
 ### From AWS marketplace developer ML powered solution
  - model zoo's
@@ -12,7 +13,8 @@
 Example projects:
 	
  - Mobility Explorer - real time traffic in city using object detetion and ui integration (demo on dev post website)
- 
+ - Images saved in screen shot folder on daily notes folder
+ [enter link description here](https://github.com/AVJdataminer/Notes/master/screenshots/Screen%20Shot%202020-05-21%20at%2010.30.46%20AM.png)
  
  - 
 ## How to change Screenshot folder
@@ -43,7 +45,9 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Upload short courses to github as markdowns and html's
 - Upload guided capstone notebooks as markdown and html as well as Jupyter
 - Set up auto forward from amazon to todoist packages
+- write a program to create raw urls for notes screenshots and all other files on github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODQzNzkyNTgsMjU2NjM4MDA2LDEyNj
-EyMjc4MzgsNTI0NTQyMjMwLDU1OTg2MTA5Ml19
+eyJoaXN0b3J5IjpbLTE0NDQ3MDU4MywtNjQ1ODIwMjQ2LDIwND
+MzMDU0ODIsLTE4ODQzNzkyNTgsMjU2NjM4MDA2LDEyNjEyMjc4
+MzgsNTI0NTQyMjMwLDU1OTg2MTA5Ml19
 -->
