@@ -11,7 +11,9 @@
  
 Example projects:
 	
- - Mobility Explorer - real time traffic in city using object detetion and 
+ - Mobility Explorer - real time traffic in city using object detetion and ui integration (demo on dev post website)
+ 
+ - 
 
 #### 20 May 2020
 
@@ -29,6 +31,6 @@ Example projects:
 - Upload guided capstone notebooks as markdown and html as well as Jupyter
 - Set up auto forward from amazon to todoist packages
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MjEzMDg0NCw1MjQ1NDIyMzAsNTU5OD
+eyJoaXN0b3J5IjpbMTI2MTIyNzgzOCw1MjQ1NDIyMzAsNTU5OD
 YxMDkyXX0=
 -->
