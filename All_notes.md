@@ -7,7 +7,7 @@ From AWS marketplace developer ML powered soln
 - model zoo's
 - transfer learning to adapt current models to specific needs
 - everything built has an api included
-- 
+- Plug models into applications
 
 
 #### 20 May 2020
@@ -24,6 +24,7 @@ From AWS marketplace developer ML powered soln
 - delete blot github rpeo
 - Upload short courses to github as markdowns and html's
 - Upload guided capstone notebooks as markdown and html as well as Jupyter
+- Set up auto forward from amazon to todoist packages
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTU0NzY1NTksNTU5ODYxMDkyXX0=
+eyJoaXN0b3J5IjpbNTI0NTQyMjMwLDU1OTg2MTA5Ml19
 -->
