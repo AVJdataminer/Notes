@@ -4,6 +4,9 @@
 - just simple git repo for now
 - review blot.im and consider improving layout
 - - use great example site 
+from AWS marketplace call
+
+
 #### 20 May 2020
 
  - This is tough
@@ -18,5 +21,5 @@
 - delete blot github rpeo
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU5ODYxMDkyXX0=
+eyJoaXN0b3J5IjpbLTE3NTIxNjk2NDIsNTU5ODYxMDkyXX0=
 -->
