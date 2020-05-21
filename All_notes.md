@@ -12,7 +12,7 @@
 Example projects:
 	
  - Mobility Explorer - real time traffic in city using object detetion and ui integration (demo on dev post website)
- - Images saved in screen shot 
+ - Images saved in screen shot folder on daily notes folder
  [enter link description here](https://github.com/AVJdataminer/Notes/master/screenshots/Screen%20Shot%202020-05-21%20at%2010.30.46%20AM.png)
  
  - 
@@ -44,8 +44,9 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Upload short courses to github as markdowns and html's
 - Upload guided capstone notebooks as markdown and html as well as Jupyter
 - Set up auto forward from amazon to todoist packages
+- write a program to create raw urls for notes screenshots and all other files on github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NDIyMzU4NywtMTg4NDM3OTI1OCwyNT
+eyJoaXN0b3J5IjpbMjA0MzMwNTQ4MiwtMTg4NDM3OTI1OCwyNT
 Y2MzgwMDYsMTI2MTIyNzgzOCw1MjQ1NDIyMzAsNTU5ODYxMDky
 XX0=
 -->
