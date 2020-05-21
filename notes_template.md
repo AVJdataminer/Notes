@@ -2,7 +2,8 @@
 #### 21 May 2020
 - clean up github for websites
 - just simple git repo for now
-- review blot.im
+- review blot.im and consider improving layout
+- - use great example site 
 #### 20 May 2020
 
  - This is tough
@@ -16,6 +17,6 @@
 --  First copy and paste to stack edit then save as markdown and html
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5Nzg5NTYxOCwxNjkxMTgxMjY3LDIxMT
+eyJoaXN0b3J5IjpbLTQxNDI1MzIxNCwxNjkxMTgxMjY3LDIxMT
 MxODUyMjldfQ==
 -->
