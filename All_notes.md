@@ -2,9 +2,11 @@
 #### 21 May 2020
 - clean up github for websites
 - just simple git repo for now
-- review blot.im and consider improving layout
-- - use great example site 
-from AWS marketplace call
+ 
+From AWS marketplace developer ML powered soln
+- model zoo's
+- transfer learning to adapt current models to specific needs
+- 
 
 
 #### 20 May 2020
@@ -21,5 +23,5 @@ from AWS marketplace call
 - delete blot github rpeo
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTIxNjk2NDIsNTU5ODYxMDkyXX0=
+eyJoaXN0b3J5IjpbODE2MTkxNzQ4LDU1OTg2MTA5Ml19
 -->
