@@ -15,8 +15,9 @@
 - Upload short courses to github as markdowns
 - Upload Medium articles as markdowns
 --  First copy and paste to stack edit then save as markdown and html
+- delete blot github rpeo
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNDI1MzIxNCwxNjkxMTgxMjY3LDIxMT
-MxODUyMjldfQ==
+eyJoaXN0b3J5IjpbNTU5ODYxMDkyLC00MTQyNTMyMTQsMTY5MT
+E4MTI2NywyMTEzMTg1MjI5XX0=
 -->
