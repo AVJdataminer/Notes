@@ -1,7 +1,6 @@
 # 
 #### 21 May 2020
-- create a key
-
+- [create a keyboard shortcut for date and time on mac](https://discussions.apple.com/thread/8651300)
  - just simple git repo for now
  - Check out [Fastpages for github pages](https://fastpages.fast.ai/) blog with markdowns
  - Wrote a script called 'git_url.py' to create permanent links for images from browser url.
@@ -52,8 +51,8 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Set up auto forward from amazon to todoist packages
 - write a program to create raw urls for notes screenshots and all other files on github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjIxNTY0MDQsLTE5ODg2NDM4MTUsLT
-E0NDQ3MDU4MywtNjQ1ODIwMjQ2LDIwNDMzMDU0ODIsLTE4ODQz
-NzkyNTgsMjU2NjM4MDA2LDEyNjEyMjc4MzgsNTI0NTQyMjMwLD
-U1OTg2MTA5Ml19
+eyJoaXN0b3J5IjpbOTg5MTQ4OTU0LC0xOTg4NjQzODE1LC0xND
+Q0NzA1ODMsLTY0NTgyMDI0NiwyMDQzMzA1NDgyLC0xODg0Mzc5
+MjU4LDI1NjYzODAwNiwxMjYxMjI3ODM4LDUyNDU0MjIzMCw1NT
+k4NjEwOTJdfQ==
 -->
