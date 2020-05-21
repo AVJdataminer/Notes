@@ -6,6 +6,7 @@
 From AWS marketplace developer ML powered soln
 - model zoo's
 - transfer learning to adapt current models to specific needs
+- everything built has an api included
 - 
 
 
@@ -17,11 +18,12 @@ From AWS marketplace developer ML powered soln
  - Need to work on Website on webflow
 
 # section for todoist items
-- Upload short courses to github as markdowns
+
 - Upload Medium articles as markdowns
 --  First copy and paste to stack edit then save as markdown and html
 - delete blot github rpeo
-- 
+- Upload short courses to github as markdowns and html's
+- Upload guided capstone notebooks as markdown and html as well as Jupyter
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE2MTkxNzQ4LDU1OTg2MTA5Ml19
+eyJoaXN0b3J5IjpbLTIwOTU0NzY1NTksNTU5ODYxMDkyXX0=
 -->
