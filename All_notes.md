@@ -2,7 +2,7 @@
 #### 21 May 2020
  - just simple git repo for now
  - Check out [Fastpages for github pages](https://fastpages.fast.ai/) blog with markdowns
- - Add a python program to insert images in notes based on name or dates specified in location
+ - Wrote a script called 'git_url.py' to create permanent links for images from browser url.
  
 ### From AWS marketplace developer ML powered solution
  - model zoo's
@@ -14,12 +14,11 @@ Example projects:
 	
  - Mobility Explorer - real time traffic in city using object detetion and ui integration (demo on dev post website)
  - Images saved in screen shot folder on daily notes folder
- - ![](https://raw.githubusercontent.com/AVJdataminer/Notes/master/screenshots/Screen%20Shot%202020-05-21%20at%2010.28.46%20AM.png)
+ ![](https://raw.githubusercontent.com/AVJdataminer/Notes/master/screenshots/Screen%20Shot%202020-05-21%20at%2010.28.46%20AM.png)
 
 ![enter image description here](https://raw.githubusercontent.com/AVJdataminer/Notes/master/screenshots/Screen%20Shot%202020-05-21%20at%2010.30.46%20AM.png)
 
 
- 
  - 
 ## How to change Screenshot folder
 `defaults write com.apple.screencapture location `
@@ -51,7 +50,7 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Set up auto forward from amazon to todoist packages
 - write a program to create raw urls for notes screenshots and all other files on github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNTM0NzM5OCwtMTQ0NDcwNTgzLC02ND
-U4MjAyNDYsMjA0MzMwNTQ4MiwtMTg4NDM3OTI1OCwyNTY2Mzgw
-MDYsMTI2MTIyNzgzOCw1MjQ1NDIyMzAsNTU5ODYxMDkyXX0=
+eyJoaXN0b3J5IjpbLTE5ODg2NDM4MTUsLTE0NDQ3MDU4MywtNj
+Q1ODIwMjQ2LDIwNDMzMDU0ODIsLTE4ODQzNzkyNTgsMjU2NjM4
+MDA2LDEyNjEyMjc4MzgsNTI0NTQyMjMwLDU1OTg2MTA5Ml19
 -->
