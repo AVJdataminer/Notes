@@ -14,7 +14,8 @@ Example projects:
 	
  - Mobility Explorer - real time traffic in city using object detetion and ui integration (demo on dev post website)
  - Images saved in screen shot folder on daily notes folder
- - ![relative path](screenshots/Screen%20Shot%202020-05-21%20at%2010.28.46%20AM.png)
+ - ![](https://raw.githubusercontent.com/AVJdataminer/Notes/master/screenshots/Screen%20Shot%202020-05-21%20at%2010.28.46%20AM.png)
+
 ![enter image description here](https://raw.githubusercontent.com/AVJdataminer/Notes/master/screenshots/Screen%20Shot%202020-05-21%20at%2010.30.46%20AM.png)
 
 
@@ -50,7 +51,7 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Set up auto forward from amazon to todoist packages
 - write a program to create raw urls for notes screenshots and all other files on github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMTI4NTAzMSwtMTQ0NDcwNTgzLC02ND
+eyJoaXN0b3J5IjpbMTcxNTM0NzM5OCwtMTQ0NDcwNTgzLC02ND
 U4MjAyNDYsMjA0MzMwNTQ4MiwtMTg4NDM3OTI1OCwyNTY2Mzgw
 MDYsMTI2MTIyNzgzOCw1MjQ1NDIyMzAsNTU5ODYxMDkyXX0=
 -->
