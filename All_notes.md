@@ -12,6 +12,7 @@
 Example projects:
 	
  - Mobility Explorer - real time traffic in city using object detetion and ui integration (demo on dev post website)
+ - Images saved in screen shot 
  [enter link description here](https://github.com/AVJdataminer/Notes/master/screenshots/Screen%20Shot%202020-05-21%20at%2010.30.46%20AM.png)
  
  - 
@@ -44,7 +45,7 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Upload guided capstone notebooks as markdown and html as well as Jupyter
 - Set up auto forward from amazon to todoist packages
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTYwMDg2NTQsLTE4ODQzNzkyNTgsMj
-U2NjM4MDA2LDEyNjEyMjc4MzgsNTI0NTQyMjMwLDU1OTg2MTA5
-Ml19
+eyJoaXN0b3J5IjpbMTQ0NDIyMzU4NywtMTg4NDM3OTI1OCwyNT
+Y2MzgwMDYsMTI2MTIyNzgzOCw1MjQ1NDIyMzAsNTU5ODYxMDky
+XX0=
 -->
