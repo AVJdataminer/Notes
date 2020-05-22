@@ -3,7 +3,7 @@
 
  # First
  ### Settings need to be updated configuration file in VS code
- # second
+ # Next
 * after already setting up the config file
 1. Start instance on AWS.com
 
@@ -35,5 +35,5 @@
 
 15. go back to AWS.com stop EC2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MzI3ODU5MywxNzIxNzMzOTgxXX0=
+eyJoaXN0b3J5IjpbLTQ4NTgwMzc3NiwxNzIxNzMzOTgxXX0=
 -->
