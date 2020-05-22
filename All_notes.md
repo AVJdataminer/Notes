@@ -1,7 +1,8 @@
 # 
+#### 22 May 2020
+QUalified 
+
 #### 21 May 2020
-
-
 - [create a keyboard shortcut for date and time on mac](https://discussions.apple.com/thread/8651300)
  - just simple git repo for now
  - Check out [Fastpages for github pages](https://fastpages.fast.ai/) blog with markdowns
@@ -53,8 +54,8 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Set up auto forward from amazon to todoist packages
 - write a program to create raw urls for notes screenshots and all other files on github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTI0OTk1OTQsOTg5MTQ4OTU0LC0xOT
-g4NjQzODE1LC0xNDQ0NzA1ODMsLTY0NTgyMDI0NiwyMDQzMzA1
-NDgyLC0xODg0Mzc5MjU4LDI1NjYzODAwNiwxMjYxMjI3ODM4LD
-UyNDU0MjIzMCw1NTk4NjEwOTJdfQ==
+eyJoaXN0b3J5IjpbNTcyOTE0MTg1LC0xNDkyNDk5NTk0LDk4OT
+E0ODk1NCwtMTk4ODY0MzgxNSwtMTQ0NDcwNTgzLC02NDU4MjAy
+NDYsMjA0MzMwNTQ4MiwtMTg4NDM3OTI1OCwyNTY2MzgwMDYsMT
+I2MTIyNzgzOCw1MjQ1NDIyMzAsNTU5ODYxMDkyXX0=
 -->
