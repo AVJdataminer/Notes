@@ -2,7 +2,8 @@
 
 
  # First
- ### Settings need to be updated configuration file in VS code
+ ###  Need to be update configuration file in VS code
+ - new Hostname for Ec2 ip address
  # Next
 * after already setting up the config file
 1. Start instance on AWS.com
@@ -35,5 +36,5 @@
 
 15. go back to AWS.com stop EC2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NTgwMzc3NiwxNzIxNzMzOTgxXX0=
+eyJoaXN0b3J5IjpbLTQ4MzkzNzMzNSwxNzIxNzMzOTgxXX0=
 -->
