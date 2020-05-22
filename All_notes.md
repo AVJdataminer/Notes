@@ -4,6 +4,7 @@ Qualified
 Seaborn plots
 Matplotlib plot to show 
 test out the pandas.head() function
+connect qualified to local IDE
 
 
 
@@ -62,8 +63,9 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Set up auto forward from amazon to todoist packages
 - write a program to create raw urls for notes screenshots and all other files on github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzODg1ODA3NSwtMTQ5MjQ5OTU5NCw5OD
-kxNDg5NTQsLTE5ODg2NDM4MTUsLTE0NDQ3MDU4MywtNjQ1ODIw
-MjQ2LDIwNDMzMDU0ODIsLTE4ODQzNzkyNTgsMjU2NjM4MDA2LD
-EyNjEyMjc4MzgsNTI0NTQyMjMwLDU1OTg2MTA5Ml19
+eyJoaXN0b3J5IjpbNDk0MjAyNTkxLDE5Mzg4NTgwNzUsLTE0OT
+I0OTk1OTQsOTg5MTQ4OTU0LC0xOTg4NjQzODE1LC0xNDQ0NzA1
+ODMsLTY0NTgyMDI0NiwyMDQzMzA1NDgyLC0xODg0Mzc5MjU4LD
+I1NjYzODAwNiwxMjYxMjI3ODM4LDUyNDU0MjIzMCw1NTk4NjEw
+OTJdfQ==
 -->
