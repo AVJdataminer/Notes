@@ -6,6 +6,9 @@ test out the pandas.head() function
 sign up for this:
 [connect qualified to local IDE](https://www.qualified.io/blog/posts/developers-can-now-complete-qualified-assessments-in-their-own-ide)
 
+## Connecting to icloud via terminal
+`/Users/aidenjohnson/Library/Mobile Documents/com~apple~CloudDocs/`
+
 ## Cleaning up Ec2 to work on Thinkful content
 To move local files to new github repo
 `git init` - converts to a git directory
@@ -80,10 +83,10 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Set up auto forward from amazon to todoist packages
 - write a program to create raw urls for notes screenshots and all other files on github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NTc0OTUyNiwxMDUxMDgwNjk1LDc3ND
-E2NTcwNSwtMTI4MDk3OTgzMywxOTY3MDg2MzE3LDQ5NDIwMjU5
-MSwxOTM4ODU4MDc1LC0xNDkyNDk5NTk0LDk4OTE0ODk1NCwtMT
-k4ODY0MzgxNSwtMTQ0NDcwNTgzLC02NDU4MjAyNDYsMjA0MzMw
-NTQ4MiwtMTg4NDM3OTI1OCwyNTY2MzgwMDYsMTI2MTIyNzgzOC
-w1MjQ1NDIyMzAsNTU5ODYxMDkyXX0=
+eyJoaXN0b3J5IjpbLTY0MjkzODM0NywtMjQ1NzQ5NTI2LDEwNT
+EwODA2OTUsNzc0MTY1NzA1LC0xMjgwOTc5ODMzLDE5NjcwODYz
+MTcsNDk0MjAyNTkxLDE5Mzg4NTgwNzUsLTE0OTI0OTk1OTQsOT
+g5MTQ4OTU0LC0xOTg4NjQzODE1LC0xNDQ0NzA1ODMsLTY0NTgy
+MDI0NiwyMDQzMzA1NDgyLC0xODg0Mzc5MjU4LDI1NjYzODAwNi
+wxMjYxMjI3ODM4LDUyNDU0MjIzMCw1NTk4NjEwOTJdfQ==
 -->
