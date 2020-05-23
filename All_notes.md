@@ -6,6 +6,11 @@ Matplotlib plot to show
 test out the pandas.head() function
 connect qualified to local IDE
 
+## Cleaning up Ec2
+To move local files to new github repo
+`git init`
+'git add .`
+`git push -f origin master:master`
 
 
 
@@ -63,9 +68,9 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Set up auto forward from amazon to todoist packages
 - write a program to create raw urls for notes screenshots and all other files on github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk0MjAyNTkxLDE5Mzg4NTgwNzUsLTE0OT
-I0OTk1OTQsOTg5MTQ4OTU0LC0xOTg4NjQzODE1LC0xNDQ0NzA1
-ODMsLTY0NTgyMDI0NiwyMDQzMzA1NDgyLC0xODg0Mzc5MjU4LD
-I1NjYzODAwNiwxMjYxMjI3ODM4LDUyNDU0MjIzMCw1NTk4NjEw
-OTJdfQ==
+eyJoaXN0b3J5IjpbLTE3Mzg1NjMyOTYsNDk0MjAyNTkxLDE5Mz
+g4NTgwNzUsLTE0OTI0OTk1OTQsOTg5MTQ4OTU0LC0xOTg4NjQz
+ODE1LC0xNDQ0NzA1ODMsLTY0NTgyMDI0NiwyMDQzMzA1NDgyLC
+0xODg0Mzc5MjU4LDI1NjYzODAwNiwxMjYxMjI3ODM4LDUyNDU0
+MjIzMCw1NTk4NjEwOTJdfQ==
 -->
