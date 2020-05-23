@@ -1,11 +1,12 @@
 # 22 May 2020
-## Qualified 
+## Qualified notes from meeting with George
 Seaborn plots not displaying at all
 Matplotlib plot to show 
 test out the pandas.head() function
-connect qualified to local IDE
+sign up for this:
+[connect qualified to local IDE](https://www.qualified.io/blog/posts/developers-can-now-complete-qualified-assessments-in-their-own-ide)
 
-## Cleaning up Ec2
+## Cleaning up Ec2 to work on Thinkful content
 To move local files to new github repo
 `git init` - converts to a git directory
 `git add .` - adds files to tracking
@@ -79,10 +80,10 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Set up auto forward from amazon to todoist packages
 - write a program to create raw urls for notes screenshots and all other files on github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MTA4MDY5NSw3NzQxNjU3MDUsLTEyOD
-A5Nzk4MzMsMTk2NzA4NjMxNyw0OTQyMDI1OTEsMTkzODg1ODA3
-NSwtMTQ5MjQ5OTU5NCw5ODkxNDg5NTQsLTE5ODg2NDM4MTUsLT
-E0NDQ3MDU4MywtNjQ1ODIwMjQ2LDIwNDMzMDU0ODIsLTE4ODQz
-NzkyNTgsMjU2NjM4MDA2LDEyNjEyMjc4MzgsNTI0NTQyMjMwLD
-U1OTg2MTA5Ml19
+eyJoaXN0b3J5IjpbLTk2NzM5Mjc5NCwxMDUxMDgwNjk1LDc3ND
+E2NTcwNSwtMTI4MDk3OTgzMywxOTY3MDg2MzE3LDQ5NDIwMjU5
+MSwxOTM4ODU4MDc1LC0xNDkyNDk5NTk0LDk4OTE0ODk1NCwtMT
+k4ODY0MzgxNSwtMTQ0NDcwNTgzLC02NDU4MjAyNDYsMjA0MzMw
+NTQ4MiwtMTg4NDM3OTI1OCwyNTY2MzgwMDYsMTI2MTIyNzgzOC
+w1MjQ1NDIyMzAsNTU5ODYxMDkyXX0=
 -->
