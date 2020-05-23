@@ -8,8 +8,10 @@ connect qualified to local IDE
 
 ## Cleaning up Ec2
 To move local files to new github repo
-`git init`
-'git add .`
+`git init` converts to a git directory
+`git add .` adds files to tracking
+`git remote add origin https://github.com/username/new_repo`
+
 `git push -f origin master:master`
 
 
@@ -68,9 +70,9 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Set up auto forward from amazon to todoist packages
 - write a program to create raw urls for notes screenshots and all other files on github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mzg1NjMyOTYsNDk0MjAyNTkxLDE5Mz
-g4NTgwNzUsLTE0OTI0OTk1OTQsOTg5MTQ4OTU0LC0xOTg4NjQz
-ODE1LC0xNDQ0NzA1ODMsLTY0NTgyMDI0NiwyMDQzMzA1NDgyLC
-0xODg0Mzc5MjU4LDI1NjYzODAwNiwxMjYxMjI3ODM4LDUyNDU0
-MjIzMCw1NTk4NjEwOTJdfQ==
+eyJoaXN0b3J5IjpbLTc5NzM4NzU5Niw0OTQyMDI1OTEsMTkzOD
+g1ODA3NSwtMTQ5MjQ5OTU5NCw5ODkxNDg5NTQsLTE5ODg2NDM4
+MTUsLTE0NDQ3MDU4MywtNjQ1ODIwMjQ2LDIwNDMzMDU0ODIsLT
+E4ODQzNzkyNTgsMjU2NjM4MDA2LDEyNjEyMjc4MzgsNTI0NTQy
+MjMwLDU1OTg2MTA5Ml19
 -->
