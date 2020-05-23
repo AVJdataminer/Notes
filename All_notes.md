@@ -1,7 +1,6 @@
-# 
-#### 22 May 2020
-Qualified 
-Seaborn plots
+# 22 May 2020
+## Qualified 
+Seaborn plots not displaying at all
 Matplotlib plot to show 
 test out the pandas.head() function
 connect qualified to local IDE
@@ -28,7 +27,7 @@ grip -b example.md
 A file is hosted that you can navigate to in your browser.
 
 
-#### 21 May 2020
+# 21 May 2020
 - [create a keyboard shortcut for date and time on mac](https://discussions.apple.com/thread/8651300)
  - just simple git repo for now
  - Check out [Fastpages for github pages](https://fastpages.fast.ai/) blog with markdowns
@@ -80,10 +79,10 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Set up auto forward from amazon to todoist packages
 - write a program to create raw urls for notes screenshots and all other files on github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc0MTY1NzA1LC0xMjgwOTc5ODMzLDE5Nj
-cwODYzMTcsNDk0MjAyNTkxLDE5Mzg4NTgwNzUsLTE0OTI0OTk1
-OTQsOTg5MTQ4OTU0LC0xOTg4NjQzODE1LC0xNDQ0NzA1ODMsLT
-Y0NTgyMDI0NiwyMDQzMzA1NDgyLC0xODg0Mzc5MjU4LDI1NjYz
-ODAwNiwxMjYxMjI3ODM4LDUyNDU0MjIzMCw1NTk4NjEwOTJdfQ
-==
+eyJoaXN0b3J5IjpbMTA1MTA4MDY5NSw3NzQxNjU3MDUsLTEyOD
+A5Nzk4MzMsMTk2NzA4NjMxNyw0OTQyMDI1OTEsMTkzODg1ODA3
+NSwtMTQ5MjQ5OTU5NCw5ODkxNDg5NTQsLTE5ODg2NDM4MTUsLT
+E0NDQ3MDU4MywtNjQ1ODIwMjQ2LDIwNDMzMDU0ODIsLTE4ODQz
+NzkyNTgsMjU2NjM4MDA2LDEyNjEyMjc4MzgsNTI0NTQyMjMwLD
+U1OTg2MTA5Ml19
 -->
