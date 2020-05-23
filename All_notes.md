@@ -25,7 +25,8 @@ pip install grip
 ```
 grip -b example.md
 ```
-A file is hosted that 
+A file is hosted that you can navigate to in your browser.
+
 
 #### 21 May 2020
 - [create a keyboard shortcut for date and time on mac](https://discussions.apple.com/thread/8651300)
@@ -79,7 +80,7 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Set up auto forward from amazon to todoist packages
 - write a program to create raw urls for notes screenshots and all other files on github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEwMzIxODgyLC0xMjgwOTc5ODMzLDE5Nj
+eyJoaXN0b3J5IjpbNzc0MTY1NzA1LC0xMjgwOTc5ODMzLDE5Nj
 cwODYzMTcsNDk0MjAyNTkxLDE5Mzg4NTgwNzUsLTE0OTI0OTk1
 OTQsOTg5MTQ4OTU0LC0xOTg4NjQzODE1LC0xNDQ0NzA1ODMsLT
 Y0NTgyMDI0NiwyMDQzMzA1NDgyLC0xODg0Mzc5MjU4LDI1NjYz
