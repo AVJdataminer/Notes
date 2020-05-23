@@ -32,7 +32,7 @@ A file is hosted that you can navigate to in your browser.
 - [create a keyboard shortcut for date and time on mac](https://discussions.apple.com/thread/8651300)
  - just simple git repo for now
  - Check out [Fastpages for github pages](https://fastpages.fast.ai/) blog with markdowns
- - Wrote a script called 'git_url.py' to create permanent links for images from browser url.
+ - Wrote a script called 'git_url.py' to create permanent links for images from browser url. 
  
 ### From AWS marketplace developer ML powered solution
  - model zoo's
@@ -80,7 +80,7 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Set up auto forward from amazon to todoist packages
 - write a program to create raw urls for notes screenshots and all other files on github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NzM5Mjc5NCwxMDUxMDgwNjk1LDc3ND
+eyJoaXN0b3J5IjpbLTI0NTc0OTUyNiwxMDUxMDgwNjk1LDc3ND
 E2NTcwNSwtMTI4MDk3OTgzMywxOTY3MDg2MzE3LDQ5NDIwMjU5
 MSwxOTM4ODU4MDc1LC0xNDkyNDk5NTk0LDk4OTE0ODk1NCwtMT
 k4ODY0MzgxNSwtMTQ0NDcwNTgzLC02NDU4MjAyNDYsMjA0MzMw
