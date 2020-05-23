@@ -13,7 +13,10 @@ To move local files to new github repo
 `git remote add origin https://github.com/username/new_repo` - adds remote
 `git push -f origin master:master` - pushes files to new github repo
 
-
+How to delete a git hub repo:
+```
+rm -rf <repo_folder>/.git
+```
 
 
 
@@ -69,9 +72,9 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Set up auto forward from amazon to todoist packages
 - write a program to create raw urls for notes screenshots and all other files on github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NzA4NjMxNyw0OTQyMDI1OTEsMTkzOD
-g1ODA3NSwtMTQ5MjQ5OTU5NCw5ODkxNDg5NTQsLTE5ODg2NDM4
-MTUsLTE0NDQ3MDU4MywtNjQ1ODIwMjQ2LDIwNDMzMDU0ODIsLT
-E4ODQzNzkyNTgsMjU2NjM4MDA2LDEyNjEyMjc4MzgsNTI0NTQy
-MjMwLDU1OTg2MTA5Ml19
+eyJoaXN0b3J5IjpbLTEyODA5Nzk4MzMsMTk2NzA4NjMxNyw0OT
+QyMDI1OTEsMTkzODg1ODA3NSwtMTQ5MjQ5OTU5NCw5ODkxNDg5
+NTQsLTE5ODg2NDM4MTUsLTE0NDQ3MDU4MywtNjQ1ODIwMjQ2LD
+IwNDMzMDU0ODIsLTE4ODQzNzkyNTgsMjU2NjM4MDA2LDEyNjEy
+Mjc4MzgsNTI0NTQyMjMwLDU1OTg2MTA5Ml19
 -->
