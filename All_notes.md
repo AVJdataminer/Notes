@@ -17,8 +17,15 @@ How to delete a git hub repo:
 ```
 rm -rf <repo_folder>/.git
 ```
-
-
+To view a markdown file in browser from SSH connection
+install [Grip](https://github.com/joeyespo/grip)
+```
+pip install grip
+```
+```
+grip -b example.md
+```
+A file is hosted that 
 
 #### 21 May 2020
 - [create a keyboard shortcut for date and time on mac](https://discussions.apple.com/thread/8651300)
@@ -72,9 +79,10 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Set up auto forward from amazon to todoist packages
 - write a program to create raw urls for notes screenshots and all other files on github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODA5Nzk4MzMsMTk2NzA4NjMxNyw0OT
-QyMDI1OTEsMTkzODg1ODA3NSwtMTQ5MjQ5OTU5NCw5ODkxNDg5
-NTQsLTE5ODg2NDM4MTUsLTE0NDQ3MDU4MywtNjQ1ODIwMjQ2LD
-IwNDMzMDU0ODIsLTE4ODQzNzkyNTgsMjU2NjM4MDA2LDEyNjEy
-Mjc4MzgsNTI0NTQyMjMwLDU1OTg2MTA5Ml19
+eyJoaXN0b3J5IjpbMzEwMzIxODgyLC0xMjgwOTc5ODMzLDE5Nj
+cwODYzMTcsNDk0MjAyNTkxLDE5Mzg4NTgwNzUsLTE0OTI0OTk1
+OTQsOTg5MTQ4OTU0LC0xOTg4NjQzODE1LC0xNDQ0NzA1ODMsLT
+Y0NTgyMDI0NiwyMDQzMzA1NDgyLC0xODg0Mzc5MjU4LDI1NjYz
+ODAwNiwxMjYxMjI3ODM4LDUyNDU0MjIzMCw1NTk4NjEwOTJdfQ
+==
 -->
