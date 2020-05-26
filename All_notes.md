@@ -6,7 +6,8 @@ Current places [hiring spreadsheet](https://docs.google.com/spreadsheets/d/1cVq3
 [Interview Preparation document](https://docs.google.com/document/d/1m7CJsjhaiIzVpvbpLcNWqKhNXOM_9ZTxbApiJqvzq0U/edit) created by [Nabeil K.](https://www.linkedin.com/in/nabkizil/)
 
 ### For the COVID19 project
-Update Github repo notebook from Copy of Colab notebook I opened today.
+Update Github repo notebook from Copy of Colab notebook I opened today.  
+
 Send him a six notebook with forecasts and discussion
 
 ### For his next project
@@ -14,9 +15,7 @@ Send him a six notebook with forecasts and discussion
 - Potentially build a project around getting people like him hired to North American companies for remote roles.
 - Or consider Deep Racer which he feels is to many new things to learn.
 
-
-
-Email to Shama
+## Email to Shama
 Ideas for improving text classifier:
   - Focus on identifying the main six characters only. The two characters model performed best in your tests, building multiple two class models with the two classes including one male and one female character in each would generate better performance results and then report the results in a nice table as you did for your current classification results. I would try a Random Forest model, or something that can handle highly correlated well.
   - Some other improvements you caould add would be to generate additionals features to include in the model such as the episode, number of lines, date of the episode. These additonal features could help. 
@@ -111,7 +110,7 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Set up auto forward from amazon to todoist packages
 - write a program to create raw urls for notes screenshots and all other files on github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMDE4NzcxMSwxMjExNTcwNjc4LDQ4Nj
+eyJoaXN0b3J5IjpbLTcxMTAwODI3MSwxMjExNTcwNjc4LDQ4Nj
 M5Mjg1OCwtODM1NTM5MTIsMzAwMjM2ODYzLC02Mjc4NjAxMDUs
 LTY0MjkzODM0NywtMjQ1NzQ5NTI2LDEwNTEwODA2OTUsNzc0MT
 Y1NzA1LC0xMjgwOTc5ODMzLDE5NjcwODYzMTcsNDk0MjAyNTkx
