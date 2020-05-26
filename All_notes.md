@@ -4,7 +4,8 @@ Ideas for improving text classifier:
 
 
   - Focus on identifying the main six characters only. The two characters model performed best in your tests, building multiple two class models with the two classes including one male and one female character in each would generate better performance results and then report the results in a nice table as you did for your current classification results. I would try a Random Forest model, or something that can handle highly correlated well.
-  - Some other improvements you caould add would be to generate additionals features to include in the model such as the episode, number of lines, date of the episode. These additonal features would most likely be information avai
+  - Some other improvements you caould add would be to generate additionals features to include in the model such as the episode, number of lines, date of the episode. These additonal features could help. 
+  - Also, a potential way to create seperation among characters would be to apply a similarity algorithm.
    
  - You could build a RNN and see if you can succesffuly create text
    generated from the characters lines. 
@@ -94,7 +95,7 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Set up auto forward from amazon to todoist packages
 - write a program to create raw urls for notes screenshots and all other files on github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NzI2MDkyLC02Mjc4NjAxMDUsLTY0Mj
+eyJoaXN0b3J5IjpbMzAwMjM2ODYzLC02Mjc4NjAxMDUsLTY0Mj
 kzODM0NywtMjQ1NzQ5NTI2LDEwNTEwODA2OTUsNzc0MTY1NzA1
 LC0xMjgwOTc5ODMzLDE5NjcwODYzMTcsNDk0MjAyNTkxLDE5Mz
 g4NTgwNzUsLTE0OTI0OTk1OTQsOTg5MTQ4OTU0LC0xOTg4NjQz
