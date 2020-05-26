@@ -3,7 +3,7 @@ Email to Shama
 Ideas for improving text classifier:
 
 
-  - Focus on identifying the main six characters only. The two characters model performed best in your tests, building multiple two class models with the two classes including one male and one female character in each would generate better performance and you can report the results in a nice table as you did for tf-idf results. 
+  - Focus on identifying the main six characters only. The two characters model performed best in your tests, building multiple two class models with the two classes including one male and one female character in each would generate better performance results and then report the results in a nice table as you did for your current classification results. I would try a Random Forest model, or something that can handle 
    
  - You could build a RNN and see if you can succesffuly create text
    generated from the characters lines. 
@@ -93,11 +93,11 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Set up auto forward from amazon to todoist packages
 - write a program to create raw urls for notes screenshots and all other files on github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDA2Njg0NjUsLTYyNzg2MDEwNSwtNj
-QyOTM4MzQ3LC0yNDU3NDk1MjYsMTA1MTA4MDY5NSw3NzQxNjU3
-MDUsLTEyODA5Nzk4MzMsMTk2NzA4NjMxNyw0OTQyMDI1OTEsMT
-kzODg1ODA3NSwtMTQ5MjQ5OTU5NCw5ODkxNDg5NTQsLTE5ODg2
-NDM4MTUsLTE0NDQ3MDU4MywtNjQ1ODIwMjQ2LDIwNDMzMDU0OD
-IsLTE4ODQzNzkyNTgsMjU2NjM4MDA2LDEyNjEyMjc4MzgsNTI0
-NTQyMjMwXX0=
+eyJoaXN0b3J5IjpbLTY4NjUwMjA4NCwtNjI3ODYwMTA1LC02ND
+I5MzgzNDcsLTI0NTc0OTUyNiwxMDUxMDgwNjk1LDc3NDE2NTcw
+NSwtMTI4MDk3OTgzMywxOTY3MDg2MzE3LDQ5NDIwMjU5MSwxOT
+M4ODU4MDc1LC0xNDkyNDk5NTk0LDk4OTE0ODk1NCwtMTk4ODY0
+MzgxNSwtMTQ0NDcwNTgzLC02NDU4MjAyNDYsMjA0MzMwNTQ4Mi
+wtMTg4NDM3OTI1OCwyNTY2MzgwMDYsMTI2MTIyNzgzOCw1MjQ1
+NDIyMzBdfQ==
 -->
