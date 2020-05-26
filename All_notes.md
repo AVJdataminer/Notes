@@ -1,3 +1,11 @@
+# 26 May 2020
+Email to Shama
+Ideas for improving text classifier:
+
+ - You could build a RNN and see if you can succesffuly create text
+   generated from the characters lines. Focus on identifying the main 
+   characters only.
+
 # 22 May 2020
 ## Qualified notes from meeting with George
 Seaborn plots not displaying at all
@@ -83,10 +91,11 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Set up auto forward from amazon to todoist packages
 - write a program to create raw urls for notes screenshots and all other files on github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MjkzODM0NywtMjQ1NzQ5NTI2LDEwNT
-EwODA2OTUsNzc0MTY1NzA1LC0xMjgwOTc5ODMzLDE5NjcwODYz
-MTcsNDk0MjAyNTkxLDE5Mzg4NTgwNzUsLTE0OTI0OTk1OTQsOT
-g5MTQ4OTU0LC0xOTg4NjQzODE1LC0xNDQ0NzA1ODMsLTY0NTgy
-MDI0NiwyMDQzMzA1NDgyLC0xODg0Mzc5MjU4LDI1NjYzODAwNi
-wxMjYxMjI3ODM4LDUyNDU0MjIzMCw1NTk4NjEwOTJdfQ==
+eyJoaXN0b3J5IjpbLTYyNzg2MDEwNSwtNjQyOTM4MzQ3LC0yND
+U3NDk1MjYsMTA1MTA4MDY5NSw3NzQxNjU3MDUsLTEyODA5Nzk4
+MzMsMTk2NzA4NjMxNyw0OTQyMDI1OTEsMTkzODg1ODA3NSwtMT
+Q5MjQ5OTU5NCw5ODkxNDg5NTQsLTE5ODg2NDM4MTUsLTE0NDQ3
+MDU4MywtNjQ1ODIwMjQ2LDIwNDMzMDU0ODIsLTE4ODQzNzkyNT
+gsMjU2NjM4MDA2LDEyNjEyMjc4MzgsNTI0NTQyMjMwLDU1OTg2
+MTA5Ml19
 -->
