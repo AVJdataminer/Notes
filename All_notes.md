@@ -1,5 +1,9 @@
 # 26 May 2020
 
+Notes from call with Shovon:
+Current places [hiring spreadsheet](https://docs.google.com/spreadsheets/d/1cVq37hFt1woa_ap8-KQFDERaXFJMYOX-Mpv5VkYkrgA/htmlview) he sent.
+
+Build a project to get hired article by Jeremie Harris.
 
 Email to Shama
 Ideas for improving text classifier:
@@ -96,11 +100,11 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Set up auto forward from amazon to todoist packages
 - write a program to create raw urls for notes screenshots and all other files on github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMTU3MDY3OCw0ODYzOTI4NTgsLTgzNT
-UzOTEyLDMwMDIzNjg2MywtNjI3ODYwMTA1LC02NDI5MzgzNDcs
-LTI0NTc0OTUyNiwxMDUxMDgwNjk1LDc3NDE2NTcwNSwtMTI4MD
-k3OTgzMywxOTY3MDg2MzE3LDQ5NDIwMjU5MSwxOTM4ODU4MDc1
-LC0xNDkyNDk5NTk0LDk4OTE0ODk1NCwtMTk4ODY0MzgxNSwtMT
-Q0NDcwNTgzLC02NDU4MjAyNDYsMjA0MzMwNTQ4MiwtMTg4NDM3
-OTI1OF19
+eyJoaXN0b3J5IjpbODg2MzI4OTk0LDEyMTE1NzA2NzgsNDg2Mz
+kyODU4LC04MzU1MzkxMiwzMDAyMzY4NjMsLTYyNzg2MDEwNSwt
+NjQyOTM4MzQ3LC0yNDU3NDk1MjYsMTA1MTA4MDY5NSw3NzQxNj
+U3MDUsLTEyODA5Nzk4MzMsMTk2NzA4NjMxNyw0OTQyMDI1OTEs
+MTkzODg1ODA3NSwtMTQ5MjQ5OTU5NCw5ODkxNDg5NTQsLTE5OD
+g2NDM4MTUsLTE0NDQ3MDU4MywtNjQ1ODIwMjQ2LDIwNDMzMDU0
+ODJdfQ==
 -->
