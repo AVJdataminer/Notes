@@ -2,7 +2,7 @@
 
 ## Notes from call with Shovon
 Current places [hiring spreadsheet](https://docs.google.com/spreadsheets/d/1cVq37hFt1woa_ap8-KQFDERaXFJMYOX-Mpv5VkYkrgA/htmlview) he sent. he is going to find 3-5 jobs on this list for us to review together next call.
-Interview Preparation document created by Navil
+[Interview Preparation document](https://docs.google.com/document/d/1m7CJsjhaiIzVpvbpLcNWqKhNXOM_9ZTxbApiJqvzq0U/edit) created by [Nabeil K.](https://www.linkedin.com/in/nabkizil/)
 
 ### For the COVID19 project
 Update Github repo notebook from Copy of Colab notebook I opened today.
@@ -10,6 +10,7 @@ Send him a six notebook with forecasts and discussion
 
 ### For his next project
 [Build a project to get hired article by Jeremie Harris.](https://towardsdatascience.com/want-to-get-hired-build-a-project-with-a-win-condition-6526d90a247d)
+
 
 
 
@@ -108,11 +109,11 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Set up auto forward from amazon to todoist packages
 - write a program to create raw urls for notes screenshots and all other files on github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Nzk2OTk4ODgsMTIxMTU3MDY3OCw0OD
-YzOTI4NTgsLTgzNTUzOTEyLDMwMDIzNjg2MywtNjI3ODYwMTA1
-LC02NDI5MzgzNDcsLTI0NTc0OTUyNiwxMDUxMDgwNjk1LDc3ND
-E2NTcwNSwtMTI4MDk3OTgzMywxOTY3MDg2MzE3LDQ5NDIwMjU5
-MSwxOTM4ODU4MDc1LC0xNDkyNDk5NTk0LDk4OTE0ODk1NCwtMT
-k4ODY0MzgxNSwtMTQ0NDcwNTgzLC02NDU4MjAyNDYsMjA0MzMw
-NTQ4Ml19
+eyJoaXN0b3J5IjpbMTY5Mjk1NjE5NSwxMjExNTcwNjc4LDQ4Nj
+M5Mjg1OCwtODM1NTM5MTIsMzAwMjM2ODYzLC02Mjc4NjAxMDUs
+LTY0MjkzODM0NywtMjQ1NzQ5NTI2LDEwNTEwODA2OTUsNzc0MT
+Y1NzA1LC0xMjgwOTc5ODMzLDE5NjcwODYzMTcsNDk0MjAyNTkx
+LDE5Mzg4NTgwNzUsLTE0OTI0OTk1OTQsOTg5MTQ4OTU0LC0xOT
+g4NjQzODE1LC0xNDQ0NzA1ODMsLTY0NTgyMDI0NiwyMDQzMzA1
+NDgyXX0=
 -->
