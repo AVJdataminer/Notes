@@ -1,4 +1,8 @@
 # 26 May 2020
+## Call with Allyson
+
+
+## Call with Cihat
 
 ## Notes from call with Shovon
 Current places [hiring spreadsheet](https://docs.google.com/spreadsheets/d/1cVq37hFt1woa_ap8-KQFDERaXFJMYOX-Mpv5VkYkrgA/htmlview) he sent. he is going to find 3-5 jobs on this list for us to review together next call.  
@@ -110,11 +114,11 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Set up auto forward from amazon to todoist packages
 - write a program to create raw urls for notes screenshots and all other files on github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMTAwODI3MSwxMjExNTcwNjc4LDQ4Nj
-M5Mjg1OCwtODM1NTM5MTIsMzAwMjM2ODYzLC02Mjc4NjAxMDUs
-LTY0MjkzODM0NywtMjQ1NzQ5NTI2LDEwNTEwODA2OTUsNzc0MT
-Y1NzA1LC0xMjgwOTc5ODMzLDE5NjcwODYzMTcsNDk0MjAyNTkx
-LDE5Mzg4NTgwNzUsLTE0OTI0OTk1OTQsOTg5MTQ4OTU0LC0xOT
-g4NjQzODE1LC0xNDQ0NzA1ODMsLTY0NTgyMDI0NiwyMDQzMzA1
-NDgyXX0=
+eyJoaXN0b3J5IjpbLTE4MDI4NzYwMDgsLTcxMTAwODI3MSwxMj
+ExNTcwNjc4LDQ4NjM5Mjg1OCwtODM1NTM5MTIsMzAwMjM2ODYz
+LC02Mjc4NjAxMDUsLTY0MjkzODM0NywtMjQ1NzQ5NTI2LDEwNT
+EwODA2OTUsNzc0MTY1NzA1LC0xMjgwOTc5ODMzLDE5NjcwODYz
+MTcsNDk0MjAyNTkxLDE5Mzg4NTgwNzUsLTE0OTI0OTk1OTQsOT
+g5MTQ4OTU0LC0xOTg4NjQzODE1LC0xNDQ0NzA1ODMsLTY0NTgy
+MDI0Nl19
 -->
