@@ -1,7 +1,8 @@
 # 26 May 2020
 
 ## Notes from call with Shovon
-Current places [hiring spreadsheet](https://docs.google.com/spreadsheets/d/1cVq37hFt1woa_ap8-KQFDERaXFJMYOX-Mpv5VkYkrgA/htmlview) he sent. he is going to find 3-5 jobs on this list for us to review together next call.
+Current places [hiring spreadsheet](https://docs.google.com/spreadsheets/d/1cVq37hFt1woa_ap8-KQFDERaXFJMYOX-Mpv5VkYkrgA/htmlview) he sent. he is going to find 3-5 jobs on this list for us to review together next call.  
+
 [Interview Preparation document](https://docs.google.com/document/d/1m7CJsjhaiIzVpvbpLcNWqKhNXOM_9ZTxbApiJqvzq0U/edit) created by [Nabeil K.](https://www.linkedin.com/in/nabkizil/)
 
 ### For the COVID19 project
@@ -9,8 +10,9 @@ Update Github repo notebook from Copy of Colab notebook I opened today.
 Send him a six notebook with forecasts and discussion
 
 ### For his next project
-[Build a project to get hired article by Jeremie Harris.](https://towardsdatascience.com/want-to-get-hired-build-a-project-with-a-win-condition-6526d90a247d)
-
+- [Build a project to get hired article by Jeremie Harris.](https://towardsdatascience.com/want-to-get-hired-build-a-project-with-a-win-condition-6526d90a247d)
+- Potentially build a project around getting people like him hired to North American companies for remote roles.
+- Or consider Deep Racer which he feels is to many new things to learn.
 
 
 
@@ -109,7 +111,7 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Set up auto forward from amazon to todoist packages
 - write a program to create raw urls for notes screenshots and all other files on github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5Mjk1NjE5NSwxMjExNTcwNjc4LDQ4Nj
+eyJoaXN0b3J5IjpbLTQwMDE4NzcxMSwxMjExNTcwNjc4LDQ4Nj
 M5Mjg1OCwtODM1NTM5MTIsMzAwMjM2ODYzLC02Mjc4NjAxMDUs
 LTY0MjkzODM0NywtMjQ1NzQ5NTI2LDEwNTEwODA2OTUsNzc0MT
 Y1NzA1LC0xMjgwOTc5ODMzLDE5NjcwODYzMTcsNDk0MjAyNTkx
