@@ -2,10 +2,11 @@
 Email to Shama
 Ideas for improving text classifier:
 
+
+  - Focus on identifying the main 
+   six characters only. The two characters model performed best in your tests, building multiple two class models with the two classes including one male and one female character in each. 
  - You could build a RNN and see if you can succesffuly create text
    generated from the characters lines. 
-   Focus on identifying the main 
-   six characters only. The two characters model performed best, building multiple two class models with the two classes including one male and one female character. You could also use an emsble class
 
 # 22 May 2020
 ## Qualified notes from meeting with George
@@ -92,11 +93,11 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Set up auto forward from amazon to todoist packages
 - write a program to create raw urls for notes screenshots and all other files on github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTE3NTUxMzMsLTYyNzg2MDEwNSwtNj
-QyOTM4MzQ3LC0yNDU3NDk1MjYsMTA1MTA4MDY5NSw3NzQxNjU3
-MDUsLTEyODA5Nzk4MzMsMTk2NzA4NjMxNyw0OTQyMDI1OTEsMT
-kzODg1ODA3NSwtMTQ5MjQ5OTU5NCw5ODkxNDg5NTQsLTE5ODg2
-NDM4MTUsLTE0NDQ3MDU4MywtNjQ1ODIwMjQ2LDIwNDMzMDU0OD
-IsLTE4ODQzNzkyNTgsMjU2NjM4MDA2LDEyNjEyMjc4MzgsNTI0
-NTQyMjMwXX0=
+eyJoaXN0b3J5IjpbNTQ5MzIyNDQwLC02Mjc4NjAxMDUsLTY0Mj
+kzODM0NywtMjQ1NzQ5NTI2LDEwNTEwODA2OTUsNzc0MTY1NzA1
+LC0xMjgwOTc5ODMzLDE5NjcwODYzMTcsNDk0MjAyNTkxLDE5Mz
+g4NTgwNzUsLTE0OTI0OTk1OTQsOTg5MTQ4OTU0LC0xOTg4NjQz
+ODE1LC0xNDQ0NzA1ODMsLTY0NTgyMDI0NiwyMDQzMzA1NDgyLC
+0xODg0Mzc5MjU4LDI1NjYzODAwNiwxMjYxMjI3ODM4LDUyNDU0
+MjIzMF19
 -->
