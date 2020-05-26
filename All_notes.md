@@ -1,9 +1,14 @@
 # 26 May 2020
 
-Notes from call with Shovon:
-Current places [hiring spreadsheet](https://docs.google.com/spreadsheets/d/1cVq37hFt1woa_ap8-KQFDERaXFJMYOX-Mpv5VkYkrgA/htmlview) he sent.
+## Notes from call with Shovon
+Current places [hiring spreadsheet](https://docs.google.com/spreadsheets/d/1cVq37hFt1woa_ap8-KQFDERaXFJMYOX-Mpv5VkYkrgA/htmlview) he sent. he is going to find 3-5 jobs on this list for us to review together next call.
+### For the COVID19 project
+[ ] Send him a six notebook with forecasts and discussion
 
-Build a project to get hired article by Jeremie Harris.
+### For his next project
+[Build a project to get hired article by Jeremie Harris.](https://towardsdatascience.com/want-to-get-hired-build-a-project-with-a-win-condition-6526d90a247d)
+
+
 
 Email to Shama
 Ideas for improving text classifier:
@@ -100,11 +105,11 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Set up auto forward from amazon to todoist packages
 - write a program to create raw urls for notes screenshots and all other files on github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg2MzI4OTk0LDEyMTE1NzA2NzgsNDg2Mz
-kyODU4LC04MzU1MzkxMiwzMDAyMzY4NjMsLTYyNzg2MDEwNSwt
-NjQyOTM4MzQ3LC0yNDU3NDk1MjYsMTA1MTA4MDY5NSw3NzQxNj
-U3MDUsLTEyODA5Nzk4MzMsMTk2NzA4NjMxNyw0OTQyMDI1OTEs
-MTkzODg1ODA3NSwtMTQ5MjQ5OTU5NCw5ODkxNDg5NTQsLTE5OD
-g2NDM4MTUsLTE0NDQ3MDU4MywtNjQ1ODIwMjQ2LDIwNDMzMDU0
-ODJdfQ==
+eyJoaXN0b3J5IjpbLTEzOTE3MjE4NTIsMTIxMTU3MDY3OCw0OD
+YzOTI4NTgsLTgzNTUzOTEyLDMwMDIzNjg2MywtNjI3ODYwMTA1
+LC02NDI5MzgzNDcsLTI0NTc0OTUyNiwxMDUxMDgwNjk1LDc3ND
+E2NTcwNSwtMTI4MDk3OTgzMywxOTY3MDg2MzE3LDQ5NDIwMjU5
+MSwxOTM4ODU4MDc1LC0xNDkyNDk5NTk0LDk4OTE0ODk1NCwtMT
+k4ODY0MzgxNSwtMTQ0NDcwNTgzLC02NDU4MjAyNDYsMjA0MzMw
+NTQ4Ml19
 -->
