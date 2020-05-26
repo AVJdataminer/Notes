@@ -5,7 +5,7 @@ Ideas for improving text classifier:
 
   - Focus on identifying the main six characters only. The two characters model performed best in your tests, building multiple two class models with the two classes including one male and one female character in each would generate better performance results and then report the results in a nice table as you did for your current classification results. I would try a Random Forest model, or something that can handle highly correlated well.
   - Some other improvements you caould add would be to generate additionals features to include in the model such as the episode, number of lines, date of the episode. These additonal features could help. 
-  - Also, a potential way to create seperation among characters would be to apply a similarity algorithm.
+  - Also, a potential way to create seperation among characters would be to apply a [cosine similarity algorithm](https://kite.com/python/answers/how-to-find-the-cosine-similarity-between-two-vectors-in-python) and use the scores as a feature or a cut off for classifications.
    
  - You could build a RNN and see if you can succesffuly create text
    generated from the characters lines. 
@@ -95,11 +95,11 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Set up auto forward from amazon to todoist packages
 - write a program to create raw urls for notes screenshots and all other files on github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAwMjM2ODYzLC02Mjc4NjAxMDUsLTY0Mj
-kzODM0NywtMjQ1NzQ5NTI2LDEwNTEwODA2OTUsNzc0MTY1NzA1
-LC0xMjgwOTc5ODMzLDE5NjcwODYzMTcsNDk0MjAyNTkxLDE5Mz
-g4NTgwNzUsLTE0OTI0OTk1OTQsOTg5MTQ4OTU0LC0xOTg4NjQz
-ODE1LC0xNDQ0NzA1ODMsLTY0NTgyMDI0NiwyMDQzMzA1NDgyLC
-0xODg0Mzc5MjU4LDI1NjYzODAwNiwxMjYxMjI3ODM4LDUyNDU0
-MjIzMF19
+eyJoaXN0b3J5IjpbLTgzNTUzOTEyLDMwMDIzNjg2MywtNjI3OD
+YwMTA1LC02NDI5MzgzNDcsLTI0NTc0OTUyNiwxMDUxMDgwNjk1
+LDc3NDE2NTcwNSwtMTI4MDk3OTgzMywxOTY3MDg2MzE3LDQ5ND
+IwMjU5MSwxOTM4ODU4MDc1LC0xNDkyNDk5NTk0LDk4OTE0ODk1
+NCwtMTk4ODY0MzgxNSwtMTQ0NDcwNTgzLC02NDU4MjAyNDYsMj
+A0MzMwNTQ4MiwtMTg4NDM3OTI1OCwyNTY2MzgwMDYsMTI2MTIy
+NzgzOF19
 -->
