@@ -1,5 +1,8 @@
 # 27 May 2020
 
+## AWS Arch example
+from Blue Orange [Screenshot]
+
 ## Adding Html to Websites: Added to resources page on aidenvjohnson as linked url.
 
  1.  Add the html as uploaded file in wp content
@@ -137,11 +140,11 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Set up auto forward from amazon to todoist packages
 - write a program to create raw urls for notes screenshots and all other files on github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1OTAyNTEyOSwxNDE1MTY3NzgyLC05OD
-czNDIzNzUsLTE4MDI4NzYwMDgsLTcxMTAwODI3MSwxMjExNTcw
-Njc4LDQ4NjM5Mjg1OCwtODM1NTM5MTIsMzAwMjM2ODYzLC02Mj
-c4NjAxMDUsLTY0MjkzODM0NywtMjQ1NzQ5NTI2LDEwNTEwODA2
-OTUsNzc0MTY1NzA1LC0xMjgwOTc5ODMzLDE5NjcwODYzMTcsND
-k0MjAyNTkxLDE5Mzg4NTgwNzUsLTE0OTI0OTk1OTQsOTg5MTQ4
-OTU0XX0=
+eyJoaXN0b3J5IjpbLTE3MDYzODgxMjQsLTQ1OTAyNTEyOSwxND
+E1MTY3NzgyLC05ODczNDIzNzUsLTE4MDI4NzYwMDgsLTcxMTAw
+ODI3MSwxMjExNTcwNjc4LDQ4NjM5Mjg1OCwtODM1NTM5MTIsMz
+AwMjM2ODYzLC02Mjc4NjAxMDUsLTY0MjkzODM0NywtMjQ1NzQ5
+NTI2LDEwNTEwODA2OTUsNzc0MTY1NzA1LC0xMjgwOTc5ODMzLD
+E5NjcwODYzMTcsNDk0MjAyNTkxLDE5Mzg4NTgwNzUsLTE0OTI0
+OTk1OTRdfQ==
 -->
