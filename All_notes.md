@@ -1,8 +1,12 @@
 # 27 May 2020
 For Python Jupyter intro
+- image saved for loading error in relative path
 
-For Module
 
+For Modules and OOP
+- need to update in text jupyter notebook to remove the modules portion.
+- potentially remove the OOP for data analysts
+- 
 # 26 May 2020
 ## Call with Allyson
 Need to send sign up link and jupyter notebook info.
@@ -120,11 +124,11 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Set up auto forward from amazon to todoist packages
 - write a program to create raw urls for notes screenshots and all other files on github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE4NTA2MjU4LC0xODAyODc2MDA4LC03MT
-EwMDgyNzEsMTIxMTU3MDY3OCw0ODYzOTI4NTgsLTgzNTUzOTEy
-LDMwMDIzNjg2MywtNjI3ODYwMTA1LC02NDI5MzgzNDcsLTI0NT
-c0OTUyNiwxMDUxMDgwNjk1LDc3NDE2NTcwNSwtMTI4MDk3OTgz
-MywxOTY3MDg2MzE3LDQ5NDIwMjU5MSwxOTM4ODU4MDc1LC0xND
-kyNDk5NTk0LDk4OTE0ODk1NCwtMTk4ODY0MzgxNSwtMTQ0NDcw
-NTgzXX0=
+eyJoaXN0b3J5IjpbLTk4NzM0MjM3NSwtMTgwMjg3NjAwOCwtNz
+ExMDA4MjcxLDEyMTE1NzA2NzgsNDg2MzkyODU4LC04MzU1Mzkx
+MiwzMDAyMzY4NjMsLTYyNzg2MDEwNSwtNjQyOTM4MzQ3LC0yND
+U3NDk1MjYsMTA1MTA4MDY5NSw3NzQxNjU3MDUsLTEyODA5Nzk4
+MzMsMTk2NzA4NjMxNyw0OTQyMDI1OTEsMTkzODg1ODA3NSwtMT
+Q5MjQ5OTU5NCw5ODkxNDg5NTQsLTE5ODg2NDM4MTUsLTE0NDQ3
+MDU4M119
 -->
