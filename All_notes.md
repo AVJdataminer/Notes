@@ -8,7 +8,9 @@
  4. Also need to add keywords and SEO stuff on the bottom
  5. 
 
+## Working on Qualified
 
+[https://www.qualified.io/assess/5eb0d74d0cb708000ed49e5e/challenges/5eb0f03c0cb708000dd4a0b4](https://www.qualified.io/assess/5eb0d74d0cb708000ed49e5e/challenges/5eb0f03c0cb708000dd4a0b4)
 
 For Python Jupyter intro
 - image saved for loading error in relative path
@@ -135,11 +137,11 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Set up auto forward from amazon to todoist packages
 - write a program to create raw urls for notes screenshots and all other files on github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNTE2Nzc4MiwtOTg3MzQyMzc1LC0xOD
-AyODc2MDA4LC03MTEwMDgyNzEsMTIxMTU3MDY3OCw0ODYzOTI4
-NTgsLTgzNTUzOTEyLDMwMDIzNjg2MywtNjI3ODYwMTA1LC02ND
-I5MzgzNDcsLTI0NTc0OTUyNiwxMDUxMDgwNjk1LDc3NDE2NTcw
-NSwtMTI4MDk3OTgzMywxOTY3MDg2MzE3LDQ5NDIwMjU5MSwxOT
-M4ODU4MDc1LC0xNDkyNDk5NTk0LDk4OTE0ODk1NCwtMTk4ODY0
-MzgxNV19
+eyJoaXN0b3J5IjpbLTQ1OTAyNTEyOSwxNDE1MTY3NzgyLC05OD
+czNDIzNzUsLTE4MDI4NzYwMDgsLTcxMTAwODI3MSwxMjExNTcw
+Njc4LDQ4NjM5Mjg1OCwtODM1NTM5MTIsMzAwMjM2ODYzLC02Mj
+c4NjAxMDUsLTY0MjkzODM0NywtMjQ1NzQ5NTI2LDEwNTEwODA2
+OTUsNzc0MTY1NzA1LC0xMjgwOTc5ODMzLDE5NjcwODYzMTcsND
+k0MjAyNTkxLDE5Mzg4NTgwNzUsLTE0OTI0OTk1OTQsOTg5MTQ4
+OTU0XX0=
 -->
