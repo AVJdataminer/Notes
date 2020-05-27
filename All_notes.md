@@ -1,9 +1,12 @@
 # 27 May 2020
 
-## For my html docs to websites: Added to resources page on aidenvjohnson as linked url.
+## Adding Html to Websites: Added to resources page on aidenvjohnson as linked url.
 
  1.  Add the html as uploaded file in wp content
- 2.  Create UR
+ 2.  Create URL linked title and image on resources page
+ 3. Still need to add that page to the menus
+ 4. Also need to add keywords and SEO stuff on the bottom
+ 5. 
 
 
 
@@ -132,7 +135,7 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Set up auto forward from amazon to todoist packages
 - write a program to create raw urls for notes screenshots and all other files on github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MzYzOTA0MywtOTg3MzQyMzc1LC0xOD
+eyJoaXN0b3J5IjpbMTQxNTE2Nzc4MiwtOTg3MzQyMzc1LC0xOD
 AyODc2MDA4LC03MTEwMDgyNzEsMTIxMTU3MDY3OCw0ODYzOTI4
 NTgsLTgzNTUzOTEyLDMwMDIzNjg2MywtNjI3ODYwMTA1LC02ND
 I5MzgzNDcsLTI0NTc0OTUyNiwxMDUxMDgwNjk1LDc3NDE2NTcw
