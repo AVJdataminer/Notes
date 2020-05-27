@@ -1,4 +1,12 @@
 # 27 May 2020
+
+## For my html docs to websites: Added to resources page on aidenvjohnson as linked url.
+
+ 1.  Add the html as uploaded file in wp content
+ 2.  Create UR
+
+
+
 For Python Jupyter intro
 - image saved for loading error in relative path
 
@@ -124,11 +132,11 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Set up auto forward from amazon to todoist packages
 - write a program to create raw urls for notes screenshots and all other files on github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NzM0MjM3NSwtMTgwMjg3NjAwOCwtNz
-ExMDA4MjcxLDEyMTE1NzA2NzgsNDg2MzkyODU4LC04MzU1Mzkx
-MiwzMDAyMzY4NjMsLTYyNzg2MDEwNSwtNjQyOTM4MzQ3LC0yND
-U3NDk1MjYsMTA1MTA4MDY5NSw3NzQxNjU3MDUsLTEyODA5Nzk4
-MzMsMTk2NzA4NjMxNyw0OTQyMDI1OTEsMTkzODg1ODA3NSwtMT
-Q5MjQ5OTU5NCw5ODkxNDg5NTQsLTE5ODg2NDM4MTUsLTE0NDQ3
-MDU4M119
+eyJoaXN0b3J5IjpbMTA2MzYzOTA0MywtOTg3MzQyMzc1LC0xOD
+AyODc2MDA4LC03MTEwMDgyNzEsMTIxMTU3MDY3OCw0ODYzOTI4
+NTgsLTgzNTUzOTEyLDMwMDIzNjg2MywtNjI3ODYwMTA1LC02ND
+I5MzgzNDcsLTI0NTc0OTUyNiwxMDUxMDgwNjk1LDc3NDE2NTcw
+NSwtMTI4MDk3OTgzMywxOTY3MDg2MzE3LDQ5NDIwMjU5MSwxOT
+M4ODU4MDc1LC0xNDkyNDk5NTk0LDk4OTE0ODk1NCwtMTk4ODY0
+MzgxNV19
 -->
