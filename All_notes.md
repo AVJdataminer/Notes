@@ -1,6 +1,6 @@
 
 # 28 May 2020
-Influx db at Influx Data No-code ML and anomaly deteciont
+Influx db at Influx Data No-code ML and anomaly deteci
 ![enter image description here](screenshots/Screen%20Shot%202020-05-28%20at%2010.10.12%20AM)
 
 ## For qualified
@@ -377,11 +377,11 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Set up auto forward from amazon to todoist packages
 - write a program to create raw urls for notes screenshots and all other files on github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDg0MTY3MTYsMTU3NTU1NjExMiwtNz
-M1ODI3MjE2LDg0NTI1Njk0MSwtMTcwNjM4ODEyNCwtNDU5MDI1
-MTI5LDE0MTUxNjc3ODIsLTk4NzM0MjM3NSwtMTgwMjg3NjAwOC
-wtNzExMDA4MjcxLDEyMTE1NzA2NzgsNDg2MzkyODU4LC04MzU1
-MzkxMiwzMDAyMzY4NjMsLTYyNzg2MDEwNSwtNjQyOTM4MzQ3LC
-0yNDU3NDk1MjYsMTA1MTA4MDY5NSw3NzQxNjU3MDUsLTEyODA5
-Nzk4MzNdfQ==
+eyJoaXN0b3J5IjpbLTUwNTc4NjAzMywxNTc1NTU2MTEyLC03Mz
+U4MjcyMTYsODQ1MjU2OTQxLC0xNzA2Mzg4MTI0LC00NTkwMjUx
+MjksMTQxNTE2Nzc4MiwtOTg3MzQyMzc1LC0xODAyODc2MDA4LC
+03MTEwMDgyNzEsMTIxMTU3MDY3OCw0ODYzOTI4NTgsLTgzNTUz
+OTEyLDMwMDIzNjg2MywtNjI3ODYwMTA1LC02NDI5MzgzNDcsLT
+I0NTc0OTUyNiwxMDUxMDgwNjk1LDc3NDE2NTcwNSwtMTI4MDk3
+OTgzM119
 -->
