@@ -10,13 +10,14 @@ Data Import into S3 bucket
 
 S3 bucket
 Security
-Cost
+[Cost](https://aws.amazon.com/s3/pricing/?nc=sn&loc=4)
 
 Ec2 
 Security 
 Cost
 
-## Ftp or API 
+## Ftp or API download
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA0MzUxMjczXX0=
+eyJoaXN0b3J5IjpbODk0MTMzNDddfQ==
 -->
