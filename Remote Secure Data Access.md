@@ -11,7 +11,9 @@ This is the second most common approach I have encountered. This requires an ava
 
 ## 3. Private Github Repository 
 This is best for smaller data, the max file size is 25GB. In this case 
-data is uploaded by the client and I am added to the repository as a user.
+data is uploaded by the client and I am added to the repository as a collaborator. This is free up to 500 M
+
+
 5. 
 ## VPN
 
@@ -31,6 +33,6 @@ Data Import into S3 bucket
 ## Ftp or API download
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjU3MTQzMTUsLTE1MDA3OTM3NzEsOD
+eyJoaXN0b3J5IjpbLTExNTczOTY1NjgsLTE1MDA3OTM3NzEsOD
 k0MTMzNDddfQ==
 -->
