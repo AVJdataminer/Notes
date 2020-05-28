@@ -11,28 +11,13 @@ This is the second most common approach I have encountered. This requires an ava
 
 ## 3. Private Github Repository 
 This is best for smaller data, the max file size is 25GB. In this case 
-data is uploaded by the client and I am added to the repository as a collaborator. This is free up to 500 MB, [here is the pricing information.](https://github.com/pricing)
+data is uploaded by the client and I am added to the repository as a collaborator. This is free up to 500 MB, [here is the pricing information.](https://github.com/pricing) and is great for data science workflow and code version management.
 
-
-5. 
-## VPN
-
-## AWS S3 & EC2
-
-Data Import into S3 bucket
-- Amazon Lambda 
-- Amazon Fargate
-- Web browser
-
-[S3 bucket](https://aws.amazon.com/s3/getting-started/?nc=sn&loc=5)
-[Cost](https://aws.amazon.com/s3/pricing/?nc=sn&loc=4)
-
-[Ec2](https://aws.amazon.com/ec2/?nc=bc&pg=gs) 
 
 
 ## Ftp or API download
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzOTA3MDk4MSw1NzUxNzE5OTksLTE1MD
+eyJoaXN0b3J5IjpbLTI4MDU2OTA1NSw1NzUxNzE5OTksLTE1MD
 A3OTM3NzEsODk0MTMzNDddfQ==
 -->
