@@ -1,5 +1,10 @@
-# 27 May 2020
 
+# 28 May 2020
+Influx db No-code ML and anomaly deteciont
+
+
+
+# 27 May 2020
 ## AWS Arch example
 ![from Blue Orange](Blue Orange Architecture)
 
@@ -367,11 +372,11 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Set up auto forward from amazon to todoist packages
 - write a program to create raw urls for notes screenshots and all other files on github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NTU1NjExMiwtNzM1ODI3MjE2LDg0NT
-I1Njk0MSwtMTcwNjM4ODEyNCwtNDU5MDI1MTI5LDE0MTUxNjc3
-ODIsLTk4NzM0MjM3NSwtMTgwMjg3NjAwOCwtNzExMDA4MjcxLD
-EyMTE1NzA2NzgsNDg2MzkyODU4LC04MzU1MzkxMiwzMDAyMzY4
-NjMsLTYyNzg2MDEwNSwtNjQyOTM4MzQ3LC0yNDU3NDk1MjYsMT
-A1MTA4MDY5NSw3NzQxNjU3MDUsLTEyODA5Nzk4MzMsMTk2NzA4
-NjMxN119
+eyJoaXN0b3J5IjpbLTEyODgzOTY1MjksMTU3NTU1NjExMiwtNz
+M1ODI3MjE2LDg0NTI1Njk0MSwtMTcwNjM4ODEyNCwtNDU5MDI1
+MTI5LDE0MTUxNjc3ODIsLTk4NzM0MjM3NSwtMTgwMjg3NjAwOC
+wtNzExMDA4MjcxLDEyMTE1NzA2NzgsNDg2MzkyODU4LC04MzU1
+MzkxMiwzMDAyMzY4NjMsLTYyNzg2MDEwNSwtNjQyOTM4MzQ3LC
+0yNDU3NDk1MjYsMTA1MTA4MDY5NSw3NzQxNjU3MDUsLTEyODA5
+Nzk4MzNdfQ==
 -->
