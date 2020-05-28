@@ -12,6 +12,230 @@
  5. 
 
 ## Working on Qualified
+## ks project challenge
+### `ksprojects`
+
+Write functions that implements the required behaviors and passes the test cases we've written for it. You'll need to draw on what you just learned about dataframes.
+
+A dataframe named  `ksprojects`  has been loaded for you. Use this dataframe to answer each of the following questions in the provided function.
+
+How many rows of data are in the DataFrame?
+
+What are the names and data types of the columns?
+
+Do any of the columns contain null values?
+
+Find all successful documentary projects and sort them by the amount pledged. Print the top 10 highest pledges.
+
+Create a new column named average_per_backer and set its value to the total amount pledged / number of backers. What happened to the rows with 0 backers? How can this be dealt with?
+
+Create a crosstab to get a count of records for each combination of state and category.
+
+PRELOADED CODE
+
+```
+import pandas as pd
+### NOTE THIS IS NOT THE CORRECT DATA - NEED URL FROM GEORGE, CAN BE HOSTED VIA S3 OR VIA GITHUB
+### 5/25: Cory gave George new CSV to upload, flip out the below for the KSPROJECTS DATA
+
+
+df = pd.read_csv("https://tf-assets-prod.s3.amazonaws.com/tf-curric/data-analytics-bootcamp/ksprojects.csv")
+#df = pd.read_csv("https://raw.githubusercontent.com/nychealth/coronavirus-data/master/boro.csv")
+#df = pd.read_csv("https://tf-assets-prod.s3.amazonaws.com/tf-curric/data-analytics-bootcamp/ksprojects.csv")
+```
+
+SOLUTION SETUP
+
+```
+import pandas as pd
+import preloaded
+
+ksprojects = preloaded.df
+
+def df_count_rows(ksprojects) -> int:
+    """ Return the Count of Rows """
+    pass
+    
+def df_names_and_types(ksprojects) -> dict:
+    """ What are the names and data types of the columns? 
+        Return the columns and their datatype strings as a dict, e.g.:
+        {"foo": "int64", "bar": "float64", "baz": "object"}
+    """
+    pass
+
+def any_nulls(ksprojects) -> int:
+  """ Do any of the columns contain null values 
+      Return the number of columns which contain null values
+  """
+  pass
+
+def top_10_docs(ksprojects) -> object:
+  """ Find all successful documentary projects and sort them by the amount pledged. 
+      Print the top 10 highest pledges.
+      Return them as a dataframe
+  """
+  pass
+
+def no_backers(ksprojects) -> int:
+  """ Create a new column named average_per_backer and set its value to the total amount pledged / number of backers
+    What happened to the rows with 0 backers? 
+    Return the number of rows with zero backers
+  """
+  pass
+
+def records_count(ksprojects) -> int:
+  """ Create a dictionary to get a count of records for each state.
+      Return the dictionary in the following form: {"AL":1,"AK":2}
+  """
+  pass
+```
+
+WORKING SOLUTION
+
+```
+### NEED ACTUAL DATA FROM GEORGE TO PRODUCE THE REFERENCE SOLUTION ###
+import pandas as pd
+import preloaded
+
+df = preloaded.df
+
+#1 How many rows are in the dataframe?
+def df_count_rows(df) -> int:
+    """ Return the Row Count """
+    return len(df)
+    
+def df_names_and_types(df) -> dict:
+    """ What are the names and data types of the columns? 
+        Return the columns and their datatype strings as a dict, e.g.:
+        {"foo": "int64", "bar": "float64", "baz": "object"}
+    """
+    return {k: str(v) for k, v in dict(df.dtypes).items()}
+
+def any_nulls(df) -> int:
+  """ Do any of the columns contain null values 
+      Return the number of columns which contain null values
+  """
+  cols = df.isna().sum()
+  return sum(cols>0)
+
+def top_10_docs(ksprojects) -> object:
+  """ Find all successful documentary projects and sort them by the amount pledged. 
+      Print the top 10 highest pledges.
+      Return them as a dataframe
+  """
+  return df.loc[df['state']=='successful'].sort_values(by='pledged',ascending=False).head(10).get_value(0,0, takeable=True)
+
+def no_backers(df) -> int:
+  """ Create a new column named average_per_backer and set its value to the total amount pledged / number of backers
+    What happened to the rows with 0 backers? 
+    Return the number of rows with zero backers
+  """
+  df['average_per_backer'] = df['pledged']/df['backers']
+  return df['average_per_backer'].isna().sum()
+  
+
+def records_count(df) -> int:
+  """ Create a crosstab to get a count of records for each combination of state and category.
+      The index of the crosstab should be the category, and the columns should be the state.
+  """
+  return pd.crosstab(df['category'],df['state'])
+```
+
+TESTING DETAILS
+
+Framework:
+
+Python unittest
+
+Total Test Cases:
+
+3
+
+Python Version:
+
+3.7
+
+TEST CASES
+
+```
+import io
+import pandas
+import requests
+import unittest
+from solution import *
+import preloaded
+
+df = pd.read_csv('https://tf-assets-prod.s3.amazonaws.com/tf-curric/data-analytics-bootcamp/ksprojects.csv')
+
+def solution_any_nulls(df) -> int:
+  cols = df.isna().sum()
+  return sum(cols>0)
+
+def solution_top_10_docs(df) -> object:
+  return df.loc[df['state']=='successful'].sort_values(by='pledged',ascending=False).head(10).get_value(0,0,takeable=True)
+
+def solution_no_backers(df) -> int:
+  df['average_per_backer'] = df['pledged']/df['backers']
+  return df['average_per_backer'].isna().sum()
+  
+def solution_records_count(df) -> int:
+  return pd.crosstab(df['category'],df['state'])
+
+class Test(unittest.TestCase):
+    def setUp(self):
+        #url = 'https://tf-assets-prod.s3.amazonaws.com/tf-curric/data-analytics-bootcamp/ksprojects.csv'
+        self.data = preloaded.df
+        #self.data = io.StringIO(requests.get(url).text)
+        
+    def count_rows(self):
+         self.assertEqual(df_count_rows(self.data), 6)
+        
+    def test_names_and_types(self):
+         #expected = {'BOROUGH_GROUP': 'object', 
+         #            'COVID_CASE_COUNT': 'int64', 
+         #            'COVID_CASE_RATE': 'float64'}
+         expected = {k: str(v) for k, v in dict(df.dtypes).items()}
+         self.assertEqual(df_names_and_types(self.data), expected)        
+
+    def test_any_nulls(self):
+         self.assertEqual(any_nulls(self.data), solution_any_nulls(df))         
+          
+    def test_top_10_docs(self):
+         self.assertEqual(top_10_docs(self.data),solution_top_10_docs(self.data))           
+
+#    def test_no_backers(self):
+#         self.assertEqual(no_backers(df), #solution_no_backers(self.data))
+
+#    def records_count(self.data):
+#         self.assertEqual(record_count(self.data),solution_records_count(df))
+```
+
+MODIFIABLE SAMPLE TESTS
+
+```
+import io
+import pandas
+import requests
+import unittest
+from solution import *
+
+class Test(unittest.TestCase):
+    def setUp(self):
+        url = "https://raw.githubusercontent.com/nychealth/coronavirus-data/master/boro.csv"
+        self.data = pd.read_csv(url)
+        #self.data = io.StringIO(requests.get(url).text)
+        
+    def test_rows(self):
+        self.assertEqual(df_count_rows(self.data), 6)
+        
+    def test_names_and_types(self):
+        expected = {'BOROUGH_GROUP': 'object', 
+                    'COVID_CASE_COUNT': 'int64', 
+                    'COVID_CASE_RATE': 'float64'}
+        self.assertEqual(df_names_and_types(self.data), expected)
+
+```
+
 
 [https://www.qualified.io/assess/5eb0d74d0cb708000ed49e5e/challenges/5eb0f03c0cb708000dd4a0b4](https://www.qualified.io/assess/5eb0d74d0cb708000ed49e5e/challenges/5eb0f03c0cb708000dd4a0b4)
 
@@ -140,11 +364,11 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Set up auto forward from amazon to todoist packages
 - write a program to create raw urls for notes screenshots and all other files on github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ1MjU2OTQxLC0xNzA2Mzg4MTI0LC00NT
-kwMjUxMjksMTQxNTE2Nzc4MiwtOTg3MzQyMzc1LC0xODAyODc2
-MDA4LC03MTEwMDgyNzEsMTIxMTU3MDY3OCw0ODYzOTI4NTgsLT
-gzNTUzOTEyLDMwMDIzNjg2MywtNjI3ODYwMTA1LC02NDI5Mzgz
-NDcsLTI0NTc0OTUyNiwxMDUxMDgwNjk1LDc3NDE2NTcwNSwtMT
-I4MDk3OTgzMywxOTY3MDg2MzE3LDQ5NDIwMjU5MSwxOTM4ODU4
-MDc1XX0=
+eyJoaXN0b3J5IjpbLTczNTgyNzIxNiw4NDUyNTY5NDEsLTE3MD
+YzODgxMjQsLTQ1OTAyNTEyOSwxNDE1MTY3NzgyLC05ODczNDIz
+NzUsLTE4MDI4NzYwMDgsLTcxMTAwODI3MSwxMjExNTcwNjc4LD
+Q4NjM5Mjg1OCwtODM1NTM5MTIsMzAwMjM2ODYzLC02Mjc4NjAx
+MDUsLTY0MjkzODM0NywtMjQ1NzQ5NTI2LDEwNTEwODA2OTUsNz
+c0MTY1NzA1LC0xMjgwOTc5ODMzLDE5NjcwODYzMTcsNDk0MjAy
+NTkxXX0=
 -->
