@@ -7,9 +7,9 @@ This is probably the best option without knowing alot about how you're accessing
 
 
 ## 2.  VPN connection 
-This is the second most common approach I have encountered. This requires an available virtual or physical computer with the appropriate connections to databases to be set-up as well as my user authentication. However it does keep all data on premises.
+This is the second most common approach I have encountered. This requires an available virtual or physical computer with the appropriate connections to databases to be set-up as well as my user authentication. However it does keep all data on premises and eleviates the need to upload data to another storage location like an S3.
 
-
+## 
 4.  Private Github Repository - Data is uploaded by the client and I am added to the repository as a user.
 5. 
 ## VPN
@@ -30,6 +30,6 @@ Data Import into S3 bucket
 ## Ftp or API download
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNzE3MTI4MSwtMTUwMDc5Mzc3MSw4OT
+eyJoaXN0b3J5IjpbLTU2MTk5MTMwOSwtMTUwMDc5Mzc3MSw4OT
 QxMzM0N119
 -->
