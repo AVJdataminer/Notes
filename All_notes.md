@@ -1,7 +1,7 @@
 # 27 May 2020
 
 ## AWS Arch example
-from Blue Orange [Screenshot]
+![from Blue Orange](Blue Orange Architecture)
 
 ## Adding Html to Websites: Added to resources page on aidenvjohnson as linked url.
 
@@ -140,11 +140,11 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Set up auto forward from amazon to todoist packages
 - write a program to create raw urls for notes screenshots and all other files on github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDYzODgxMjQsLTQ1OTAyNTEyOSwxND
-E1MTY3NzgyLC05ODczNDIzNzUsLTE4MDI4NzYwMDgsLTcxMTAw
-ODI3MSwxMjExNTcwNjc4LDQ4NjM5Mjg1OCwtODM1NTM5MTIsMz
-AwMjM2ODYzLC02Mjc4NjAxMDUsLTY0MjkzODM0NywtMjQ1NzQ5
-NTI2LDEwNTEwODA2OTUsNzc0MTY1NzA1LC0xMjgwOTc5ODMzLD
-E5NjcwODYzMTcsNDk0MjAyNTkxLDE5Mzg4NTgwNzUsLTE0OTI0
-OTk1OTRdfQ==
+eyJoaXN0b3J5IjpbODQ1MjU2OTQxLC0xNzA2Mzg4MTI0LC00NT
+kwMjUxMjksMTQxNTE2Nzc4MiwtOTg3MzQyMzc1LC0xODAyODc2
+MDA4LC03MTEwMDgyNzEsMTIxMTU3MDY3OCw0ODYzOTI4NTgsLT
+gzNTUzOTEyLDMwMDIzNjg2MywtNjI3ODYwMTA1LC02NDI5Mzgz
+NDcsLTI0NTc0OTUyNiwxMDUxMDgwNjk1LDc3NDE2NTcwNSwtMT
+I4MDk3OTgzMywxOTY3MDg2MzE3LDQ5NDIwMjU5MSwxOTM4ODU4
+MDc1XX0=
 -->
