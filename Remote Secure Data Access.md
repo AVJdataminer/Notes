@@ -7,8 +7,7 @@ This is probably the best option without knowing alot about how you're accessing
 
 
 ## 2.  VPN connection 
-This is the second most common approach I have encountered. 
-to work directly client side only, no transfer of data.
+This is the second most common approach I have encountered. Although this requires an available virtual or physical computer and the appropriate connections to databases to be set-up as well as my user authentication
 
 
 4.  Private Github Repository - Data is uploaded by the client and I am added to the repository as a user.
@@ -31,6 +30,6 @@ Data Import into S3 bucket
 ## Ftp or API download
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzczODk2MzEyLC0xNTAwNzkzNzcxLDg5ND
+eyJoaXN0b3J5IjpbNjMwNTIxOTExLC0xNTAwNzkzNzcxLDg5ND
 EzMzQ3XX0=
 -->
