@@ -7,6 +7,7 @@ This is probably the best option without knowing alot about how you're accessing
 
 
 ## 2.  VPN connection 
+This is the second most common approach I have encountered. 
 to work directly client side only, no transfer of data.
 
 
@@ -30,6 +31,6 @@ Data Import into S3 bucket
 ## Ftp or API download
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NDYzOTM1NiwtMTUwMDc5Mzc3MSw4OT
-QxMzM0N119
+eyJoaXN0b3J5IjpbMzczODk2MzEyLC0xNTAwNzkzNzcxLDg5ND
+EzMzQ3XX0=
 -->
