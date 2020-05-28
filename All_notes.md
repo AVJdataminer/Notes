@@ -3,7 +3,10 @@
 Influx db at Influx Data No-code ML and anomaly deteciont
 ![enter image description here](screenshots/Screen%20Shot%202020-05-28%20at%2010.10.12%20AM)
 
-For quali
+## For qualified
+- develop a test that works properly in a challenge
+- record split screen with vs code and qualified
+- upload a py 
 # 27 May 2020
 ## AWS Arch example
 ![from Blue Orange](Blue Orange Architecture)
@@ -372,11 +375,11 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Set up auto forward from amazon to todoist packages
 - write a program to create raw urls for notes screenshots and all other files on github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNDMyMzcxNiwxNTc1NTU2MTEyLC03Mz
-U4MjcyMTYsODQ1MjU2OTQxLC0xNzA2Mzg4MTI0LC00NTkwMjUx
-MjksMTQxNTE2Nzc4MiwtOTg3MzQyMzc1LC0xODAyODc2MDA4LC
-03MTEwMDgyNzEsMTIxMTU3MDY3OCw0ODYzOTI4NTgsLTgzNTUz
-OTEyLDMwMDIzNjg2MywtNjI3ODYwMTA1LC02NDI5MzgzNDcsLT
-I0NTc0OTUyNiwxMDUxMDgwNjk1LDc3NDE2NTcwNSwtMTI4MDk3
-OTgzM119
+eyJoaXN0b3J5IjpbMjM5MTU1MjU5LDE1NzU1NTYxMTIsLTczNT
+gyNzIxNiw4NDUyNTY5NDEsLTE3MDYzODgxMjQsLTQ1OTAyNTEy
+OSwxNDE1MTY3NzgyLC05ODczNDIzNzUsLTE4MDI4NzYwMDgsLT
+cxMTAwODI3MSwxMjExNTcwNjc4LDQ4NjM5Mjg1OCwtODM1NTM5
+MTIsMzAwMjM2ODYzLC02Mjc4NjAxMDUsLTY0MjkzODM0NywtMj
+Q1NzQ5NTI2LDEwNTEwODA2OTUsNzc0MTY1NzA1LC0xMjgwOTc5
+ODMzXX0=
 -->
