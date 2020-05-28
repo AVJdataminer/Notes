@@ -3,7 +3,7 @@
 ## 1.  S3 bucket on AWS 
 The data is uploaded by me after receiving zipped data from the client. If the data sources are multiple or they are too large to be shared via email or secure ftp then you would need to manage the S3 bucket  and its data uploads on your end and just grant me user access. If I manage the bucket, I would create a seperate bucket specifically for working with you and add the monthly costs to your invoice as a seperate line item. [Here is some pricing info for review.](https://aws.amazon.com/s3/pricing/?nc=sn&loc=4) Once we completed our work together I would delete bucket or you could remove me as a user if it was managed on your end. 
 
-This is probably the best option without knowing alot about how you're accessing the data and what your data management system looks like. As I mentioned I work on [AWS EC2](https://aws.amazon.com/ec2/?nc=bc&pg=gs)'s for computing which is more secure and keeps clients data and code off my local machine. If my costs exceeded $50/month I would need to bill them as an invoiced line item as well.
+This is probably the best option without knowing alot about how you're accessing the data and what your data management system looks like. As I mentioned I work on [AWS EC2](https://aws.amazon.com/ec2/?nc=bc&pg=gs)'s for computing which is more secure and keeps clients data and code off my local machine. 
 
 
 ## 2.  VPN connection 
@@ -33,6 +33,6 @@ Data Import into S3 bucket
 ## Ftp or API download
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MzE4NDAxMiwtMTUwMDc5Mzc3MSw4OT
-QxMzM0N119
+eyJoaXN0b3J5IjpbLTExNDk1MTQ5NTMsLTE1MDA3OTM3NzEsOD
+k0MTMzNDddfQ==
 -->
