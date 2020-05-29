@@ -1,5 +1,12 @@
 
 # 29 May 2020
+# content update
+[DA intro location](https://courses.thinkful.com/dabc-python-1-v1/checkpoint/1)
+[DA modules location](https://courses.thinkful.com/dabc-python-1-v1/checkpoint/11)
+
+
+
+
 ## To remove files from git now added to gitignore
 To delete jupyter checkpoints after already in Git repo locally
 `git rm -r .ipynb_checkpoints/`
@@ -395,11 +402,11 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Set up auto forward from amazon to todoist packages
 - write a program to create raw urls for notes screenshots and all other files on github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNzM5Nzk4NywxNTQwODQ4MjA4LDEyNz
-I1MTQ3OTAsLTE5NDI0MDg1NjYsLTExNDk2NzE5NzEsLTUyNzk4
-NDQ0OCwxMzQ1NDk0Nzg2LDE1NzU1NTYxMTIsLTczNTgyNzIxNi
-w4NDUyNTY5NDEsLTE3MDYzODgxMjQsLTQ1OTAyNTEyOSwxNDE1
-MTY3NzgyLC05ODczNDIzNzUsLTE4MDI4NzYwMDgsLTcxMTAwOD
-I3MSwxMjExNTcwNjc4LDQ4NjM5Mjg1OCwtODM1NTM5MTIsMzAw
-MjM2ODYzXX0=
+eyJoaXN0b3J5IjpbLTIxMjE3Njc5NDgsLTgzNzM5Nzk4NywxNT
+QwODQ4MjA4LDEyNzI1MTQ3OTAsLTE5NDI0MDg1NjYsLTExNDk2
+NzE5NzEsLTUyNzk4NDQ0OCwxMzQ1NDk0Nzg2LDE1NzU1NTYxMT
+IsLTczNTgyNzIxNiw4NDUyNTY5NDEsLTE3MDYzODgxMjQsLTQ1
+OTAyNTEyOSwxNDE1MTY3NzgyLC05ODczNDIzNzUsLTE4MDI4Nz
+YwMDgsLTcxMTAwODI3MSwxMjExNTcwNjc4LDQ4NjM5Mjg1OCwt
+ODM1NTM5MTJdfQ==
 -->
