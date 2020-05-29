@@ -4,8 +4,8 @@
 [DA intro location](https://courses.thinkful.com/dabc-python-1-v1/checkpoint/1)
 [DA modules location](https://courses.thinkful.com/dabc-python-1-v1/checkpoint/11)
 
-
-
+[DS intro location](https://courses.thinkful.com/dsbc-python-1-v1/checkpoint/1)
+[DS modules location](https://courses.thinkful.com/dsbc-python-1-v1/checkpoint/11)
 
 ## To remove files from git now added to gitignore
 To delete jupyter checkpoints after already in Git repo locally
@@ -402,11 +402,11 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Set up auto forward from amazon to todoist packages
 - write a program to create raw urls for notes screenshots and all other files on github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjE3Njc5NDgsLTgzNzM5Nzk4NywxNT
-QwODQ4MjA4LDEyNzI1MTQ3OTAsLTE5NDI0MDg1NjYsLTExNDk2
-NzE5NzEsLTUyNzk4NDQ0OCwxMzQ1NDk0Nzg2LDE1NzU1NTYxMT
-IsLTczNTgyNzIxNiw4NDUyNTY5NDEsLTE3MDYzODgxMjQsLTQ1
-OTAyNTEyOSwxNDE1MTY3NzgyLC05ODczNDIzNzUsLTE4MDI4Nz
-YwMDgsLTcxMTAwODI3MSwxMjExNTcwNjc4LDQ4NjM5Mjg1OCwt
-ODM1NTM5MTJdfQ==
+eyJoaXN0b3J5IjpbLTkyMzc1NDQ5OCwtODM3Mzk3OTg3LDE1ND
+A4NDgyMDgsMTI3MjUxNDc5MCwtMTk0MjQwODU2NiwtMTE0OTY3
+MTk3MSwtNTI3OTg0NDQ4LDEzNDU0OTQ3ODYsMTU3NTU1NjExMi
+wtNzM1ODI3MjE2LDg0NTI1Njk0MSwtMTcwNjM4ODEyNCwtNDU5
+MDI1MTI5LDE0MTUxNjc3ODIsLTk4NzM0MjM3NSwtMTgwMjg3Nj
+AwOCwtNzExMDA4MjcxLDEyMTE1NzA2NzgsNDg2MzkyODU4LC04
+MzU1MzkxMl19
 -->
