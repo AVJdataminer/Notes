@@ -1,14 +1,13 @@
 
 # 29 May 2020
 ## To remove files from git now added to gitignore
+To delete jupyter checkpoints after already in Git repo locally
+`git rm -r .ipynb_checkpoints/`
 ```
 git rm --cached `git ls-files -i --exclude-from=.gitignore`
 ```
 Use  `git clean -xdn`  to perform a dry run and see what will be removed.  
 Then use  `git clean -xdf`  to execute it.
-
-Basically,  `git clean -h`  or  `man git-clean`(in unix) will give you help.
-
 Be aware that this command will also remove  **new files**  that are not in the staging area.
 
 ## Qualified
@@ -396,11 +395,11 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Set up auto forward from amazon to todoist packages
 - write a program to create raw urls for notes screenshots and all other files on github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MjUxNDc5MCwtMTk0MjQwODU2NiwtMT
-E0OTY3MTk3MSwtNTI3OTg0NDQ4LDEzNDU0OTQ3ODYsMTU3NTU1
-NjExMiwtNzM1ODI3MjE2LDg0NTI1Njk0MSwtMTcwNjM4ODEyNC
-wtNDU5MDI1MTI5LDE0MTUxNjc3ODIsLTk4NzM0MjM3NSwtMTgw
-Mjg3NjAwOCwtNzExMDA4MjcxLDEyMTE1NzA2NzgsNDg2MzkyOD
-U4LC04MzU1MzkxMiwzMDAyMzY4NjMsLTYyNzg2MDEwNSwtNjQy
-OTM4MzQ3XX0=
+eyJoaXN0b3J5IjpbMTU0MDg0ODIwOCwxMjcyNTE0NzkwLC0xOT
+QyNDA4NTY2LC0xMTQ5NjcxOTcxLC01Mjc5ODQ0NDgsMTM0NTQ5
+NDc4NiwxNTc1NTU2MTEyLC03MzU4MjcyMTYsODQ1MjU2OTQxLC
+0xNzA2Mzg4MTI0LC00NTkwMjUxMjksMTQxNTE2Nzc4MiwtOTg3
+MzQyMzc1LC0xODAyODc2MDA4LC03MTEwMDgyNzEsMTIxMTU3MD
+Y3OCw0ODYzOTI4NTgsLTgzNTUzOTEyLDMwMDIzNjg2MywtNjI3
+ODYwMTA1XX0=
 -->
