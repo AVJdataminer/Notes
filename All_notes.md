@@ -1,6 +1,15 @@
 
 # 29 May 2020
-## ksprojects 
+## To remove files from git now added to gitignore
+Use  `git clean -xdn`  to perform a dry run and see what will be removed.  
+Then use  `git clean -xdf`  to execute it.
+
+Basically,  `git clean -h`  or  `man git-clean`(in unix) will give you help.
+
+Be aware that this command will also remove  **new files**  that are not in the staging area.
+
+## Qualified
+**ksprojects** 
 This is a complete example with test cases and preloaded functions.
 
 
@@ -385,11 +394,11 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Set up auto forward from amazon to todoist packages
 - write a program to create raw urls for notes screenshots and all other files on github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDk2NzE5NzEsLTUyNzk4NDQ0OCwxMz
-Q1NDk0Nzg2LDE1NzU1NTYxMTIsLTczNTgyNzIxNiw4NDUyNTY5
-NDEsLTE3MDYzODgxMjQsLTQ1OTAyNTEyOSwxNDE1MTY3NzgyLC
-05ODczNDIzNzUsLTE4MDI4NzYwMDgsLTcxMTAwODI3MSwxMjEx
-NTcwNjc4LDQ4NjM5Mjg1OCwtODM1NTM5MTIsMzAwMjM2ODYzLC
-02Mjc4NjAxMDUsLTY0MjkzODM0NywtMjQ1NzQ5NTI2LDEwNTEw
-ODA2OTVdfQ==
+eyJoaXN0b3J5IjpbMTA0ODYzNTM0OSwtMTE0OTY3MTk3MSwtNT
+I3OTg0NDQ4LDEzNDU0OTQ3ODYsMTU3NTU1NjExMiwtNzM1ODI3
+MjE2LDg0NTI1Njk0MSwtMTcwNjM4ODEyNCwtNDU5MDI1MTI5LD
+E0MTUxNjc3ODIsLTk4NzM0MjM3NSwtMTgwMjg3NjAwOCwtNzEx
+MDA4MjcxLDEyMTE1NzA2NzgsNDg2MzkyODU4LC04MzU1MzkxMi
+wzMDAyMzY4NjMsLTYyNzg2MDEwNSwtNjQyOTM4MzQ3LC0yNDU3
+NDk1MjZdfQ==
 -->
