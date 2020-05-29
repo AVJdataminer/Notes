@@ -1,4 +1,7 @@
 
+#29 May 2020
+[Rshiny Tool for teaching R](https://allisonhorst.shinyapps.io/missingexplorer/)
+
 # 28 May 2020
 Influx db at Influx Data No-code ML and anomaly detection webinar
 ![enter image description here](screenshots/Screen%20Shot%202020-05-28%20at%2010.10.12%20AM)
@@ -377,11 +380,11 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Set up auto forward from amazon to todoist packages
 - write a program to create raw urls for notes screenshots and all other files on github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NTQ5NDc4NiwxNTc1NTU2MTEyLC03Mz
-U4MjcyMTYsODQ1MjU2OTQxLC0xNzA2Mzg4MTI0LC00NTkwMjUx
-MjksMTQxNTE2Nzc4MiwtOTg3MzQyMzc1LC0xODAyODc2MDA4LC
-03MTEwMDgyNzEsMTIxMTU3MDY3OCw0ODYzOTI4NTgsLTgzNTUz
-OTEyLDMwMDIzNjg2MywtNjI3ODYwMTA1LC02NDI5MzgzNDcsLT
-I0NTc0OTUyNiwxMDUxMDgwNjk1LDc3NDE2NTcwNSwtMTI4MDk3
-OTgzM119
+eyJoaXN0b3J5IjpbLTUyNzk4NDQ0OCwxMzQ1NDk0Nzg2LDE1Nz
+U1NTYxMTIsLTczNTgyNzIxNiw4NDUyNTY5NDEsLTE3MDYzODgx
+MjQsLTQ1OTAyNTEyOSwxNDE1MTY3NzgyLC05ODczNDIzNzUsLT
+E4MDI4NzYwMDgsLTcxMTAwODI3MSwxMjExNTcwNjc4LDQ4NjM5
+Mjg1OCwtODM1NTM5MTIsMzAwMjM2ODYzLC02Mjc4NjAxMDUsLT
+Y0MjkzODM0NywtMjQ1NzQ5NTI2LDEwNTEwODA2OTUsNzc0MTY1
+NzA1XX0=
 -->
