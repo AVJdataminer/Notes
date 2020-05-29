@@ -1,5 +1,10 @@
 
-#29 May 2020
+# 29 May 2020
+## ksprojects 
+This is a complete example with test cases and preloaded functions.
+
+
+
 [Rshiny Tool for teaching R](https://allisonhorst.shinyapps.io/missingexplorer/)
 
 # 28 May 2020
@@ -380,11 +385,11 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Set up auto forward from amazon to todoist packages
 - write a program to create raw urls for notes screenshots and all other files on github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNzk4NDQ0OCwxMzQ1NDk0Nzg2LDE1Nz
-U1NTYxMTIsLTczNTgyNzIxNiw4NDUyNTY5NDEsLTE3MDYzODgx
-MjQsLTQ1OTAyNTEyOSwxNDE1MTY3NzgyLC05ODczNDIzNzUsLT
-E4MDI4NzYwMDgsLTcxMTAwODI3MSwxMjExNTcwNjc4LDQ4NjM5
-Mjg1OCwtODM1NTM5MTIsMzAwMjM2ODYzLC02Mjc4NjAxMDUsLT
-Y0MjkzODM0NywtMjQ1NzQ5NTI2LDEwNTEwODA2OTUsNzc0MTY1
-NzA1XX0=
+eyJoaXN0b3J5IjpbLTExNDk2NzE5NzEsLTUyNzk4NDQ0OCwxMz
+Q1NDk0Nzg2LDE1NzU1NTYxMTIsLTczNTgyNzIxNiw4NDUyNTY5
+NDEsLTE3MDYzODgxMjQsLTQ1OTAyNTEyOSwxNDE1MTY3NzgyLC
+05ODczNDIzNzUsLTE4MDI4NzYwMDgsLTcxMTAwODI3MSwxMjEx
+NTcwNjc4LDQ4NjM5Mjg1OCwtODM1NTM5MTIsMzAwMjM2ODYzLC
+02Mjc4NjAxMDUsLTY0MjkzODM0NywtMjQ1NzQ5NTI2LDEwNTEw
+ODA2OTVdfQ==
 -->
