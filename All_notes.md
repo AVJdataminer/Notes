@@ -9,10 +9,9 @@ Basically,  `git clean -h`  or  `man git-clean`(in unix) will give you help.
 Be aware that this command will also remove  **new files**  that are not in the staging area.
 
 ## Qualified
-**ksprojects** 
-This is a complete example with test cases and preloaded functions.
+**ksprojects** This is a complete example with test cases and preloaded functions.
 
-
+## DS Teaching tools
 
 [Rshiny Tool for teaching R](https://allisonhorst.shinyapps.io/missingexplorer/)
 
@@ -394,11 +393,11 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Set up auto forward from amazon to todoist packages
 - write a program to create raw urls for notes screenshots and all other files on github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0ODYzNTM0OSwtMTE0OTY3MTk3MSwtNT
-I3OTg0NDQ4LDEzNDU0OTQ3ODYsMTU3NTU1NjExMiwtNzM1ODI3
-MjE2LDg0NTI1Njk0MSwtMTcwNjM4ODEyNCwtNDU5MDI1MTI5LD
-E0MTUxNjc3ODIsLTk4NzM0MjM3NSwtMTgwMjg3NjAwOCwtNzEx
-MDA4MjcxLDEyMTE1NzA2NzgsNDg2MzkyODU4LC04MzU1MzkxMi
-wzMDAyMzY4NjMsLTYyNzg2MDEwNSwtNjQyOTM4MzQ3LC0yNDU3
-NDk1MjZdfQ==
+eyJoaXN0b3J5IjpbLTE5NDI0MDg1NjYsLTExNDk2NzE5NzEsLT
+UyNzk4NDQ0OCwxMzQ1NDk0Nzg2LDE1NzU1NTYxMTIsLTczNTgy
+NzIxNiw4NDUyNTY5NDEsLTE3MDYzODgxMjQsLTQ1OTAyNTEyOS
+wxNDE1MTY3NzgyLC05ODczNDIzNzUsLTE4MDI4NzYwMDgsLTcx
+MTAwODI3MSwxMjExNTcwNjc4LDQ4NjM5Mjg1OCwtODM1NTM5MT
+IsMzAwMjM2ODYzLC02Mjc4NjAxMDUsLTY0MjkzODM0NywtMjQ1
+NzQ5NTI2XX0=
 -->
