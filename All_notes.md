@@ -11,7 +11,7 @@ Then use  `git clean -xdf`  to execute it.
 Be aware that this command will also remove  **new files**  that are not in the staging area.
 
 ## Qualified
-**ksprojects** This is a complete example with test cases and preloaded functions.
+**[ksprojects](https://www.qualified.io/hire/challenges/5eb4860778d8f7000b71d924?q=ksp)** This is a complete example with test cases and preloaded functions.
 
 ## DS Teaching tools
 
@@ -395,11 +395,11 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Set up auto forward from amazon to todoist packages
 - write a program to create raw urls for notes screenshots and all other files on github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MDg0ODIwOCwxMjcyNTE0NzkwLC0xOT
-QyNDA4NTY2LC0xMTQ5NjcxOTcxLC01Mjc5ODQ0NDgsMTM0NTQ5
-NDc4NiwxNTc1NTU2MTEyLC03MzU4MjcyMTYsODQ1MjU2OTQxLC
-0xNzA2Mzg4MTI0LC00NTkwMjUxMjksMTQxNTE2Nzc4MiwtOTg3
-MzQyMzc1LC0xODAyODc2MDA4LC03MTEwMDgyNzEsMTIxMTU3MD
-Y3OCw0ODYzOTI4NTgsLTgzNTUzOTEyLDMwMDIzNjg2MywtNjI3
-ODYwMTA1XX0=
+eyJoaXN0b3J5IjpbLTgzNzM5Nzk4NywxNTQwODQ4MjA4LDEyNz
+I1MTQ3OTAsLTE5NDI0MDg1NjYsLTExNDk2NzE5NzEsLTUyNzk4
+NDQ0OCwxMzQ1NDk0Nzg2LDE1NzU1NTYxMTIsLTczNTgyNzIxNi
+w4NDUyNTY5NDEsLTE3MDYzODgxMjQsLTQ1OTAyNTEyOSwxNDE1
+MTY3NzgyLC05ODczNDIzNzUsLTE4MDI4NzYwMDgsLTcxMTAwOD
+I3MSwxMjExNTcwNjc4LDQ4NjM5Mjg1OCwtODM1NTM5MTIsMzAw
+MjM2ODYzXX0=
 -->
