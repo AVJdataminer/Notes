@@ -1,4 +1,11 @@
 
+# 30 May 2020
+## Creating NB grader assignments
+install main module
+then install additional extension tools
+jupyter nbextension enable nbgrader --py --sys-prefix
+
+
 # 29 May 2020
 # content update
 [DA intro location](https://courses.thinkful.com/dabc-python-1-v1/checkpoint/1)
@@ -402,11 +409,11 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Set up auto forward from amazon to todoist packages
 - write a program to create raw urls for notes screenshots and all other files on github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMzc1NDQ5OCwtODM3Mzk3OTg3LDE1ND
-A4NDgyMDgsMTI3MjUxNDc5MCwtMTk0MjQwODU2NiwtMTE0OTY3
-MTk3MSwtNTI3OTg0NDQ4LDEzNDU0OTQ3ODYsMTU3NTU1NjExMi
-wtNzM1ODI3MjE2LDg0NTI1Njk0MSwtMTcwNjM4ODEyNCwtNDU5
-MDI1MTI5LDE0MTUxNjc3ODIsLTk4NzM0MjM3NSwtMTgwMjg3Nj
-AwOCwtNzExMDA4MjcxLDEyMTE1NzA2NzgsNDg2MzkyODU4LC04
-MzU1MzkxMl19
+eyJoaXN0b3J5IjpbLTE4OTQ5MjgzNSwtOTIzNzU0NDk4LC04Mz
+czOTc5ODcsMTU0MDg0ODIwOCwxMjcyNTE0NzkwLC0xOTQyNDA4
+NTY2LC0xMTQ5NjcxOTcxLC01Mjc5ODQ0NDgsMTM0NTQ5NDc4Ni
+wxNTc1NTU2MTEyLC03MzU4MjcyMTYsODQ1MjU2OTQxLC0xNzA2
+Mzg4MTI0LC00NTkwMjUxMjksMTQxNTE2Nzc4MiwtOTg3MzQyMz
+c1LC0xODAyODc2MDA4LC03MTEwMDgyNzEsMTIxMTU3MDY3OCw0
+ODYzOTI4NThdfQ==
 -->
