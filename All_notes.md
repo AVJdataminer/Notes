@@ -5,6 +5,23 @@ install main module
 then install additional extension tools
 jupyter nbextension enable nbgrader --py --sys-prefix
 
+split simple confirmed cases data
+```def dt_splitter(date_col, X, y, test_size):
+        date_col = pd.to_datetime(date_col)
+        xw_date=pd.DataFrame(X).merge(date_col,left_index=True, right_index=True)
+        ad = (max(xw_date.date)- min(xw_date.date)).days*test_size
+        split_date = min(xw_date.date) + timedelta(days=ad)
+        X_train = xw_date.loc[xw_date['date'] <= split_date].drop(['date'], axis=1).values
+        X_test = xw_date.loc[xw_date['date'] > split_date].drop(['date'], axis=1).values
+        yw_date=pd.DataFrame(y).merge(date_col,left_index=True, right_index=True)
+        y_train=yw_date.loc[yw_date['date'] <= split_date].drop(['date'], axis=1).values
+        y_test=yw_date.loc[yw_date['date'] > split_date].drop(['date'], axis=1).values
+        return X_train, X_test, y_train, y_test
+
+X_train, X_test, y_train, y_test=dt_splitter(df['date'], X_scaled, y, .80)```
+
+
+
 
 # 29 May 2020
 # content update
@@ -409,11 +426,11 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Set up auto forward from amazon to todoist packages
 - write a program to create raw urls for notes screenshots and all other files on github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTQ5MjgzNSwtOTIzNzU0NDk4LC04Mz
-czOTc5ODcsMTU0MDg0ODIwOCwxMjcyNTE0NzkwLC0xOTQyNDA4
-NTY2LC0xMTQ5NjcxOTcxLC01Mjc5ODQ0NDgsMTM0NTQ5NDc4Ni
-wxNTc1NTU2MTEyLC03MzU4MjcyMTYsODQ1MjU2OTQxLC0xNzA2
-Mzg4MTI0LC00NTkwMjUxMjksMTQxNTE2Nzc4MiwtOTg3MzQyMz
-c1LC0xODAyODc2MDA4LC03MTEwMDgyNzEsMTIxMTU3MDY3OCw0
-ODYzOTI4NThdfQ==
+eyJoaXN0b3J5IjpbMTgxMzM3MDc0MiwtMTg5NDkyODM1LC05Mj
+M3NTQ0OTgsLTgzNzM5Nzk4NywxNTQwODQ4MjA4LDEyNzI1MTQ3
+OTAsLTE5NDI0MDg1NjYsLTExNDk2NzE5NzEsLTUyNzk4NDQ0OC
+wxMzQ1NDk0Nzg2LDE1NzU1NTYxMTIsLTczNTgyNzIxNiw4NDUy
+NTY5NDEsLTE3MDYzODgxMjQsLTQ1OTAyNTEyOSwxNDE1MTY3Nz
+gyLC05ODczNDIzNzUsLTE4MDI4NzYwMDgsLTcxMTAwODI3MSwx
+MjExNTcwNjc4XX0=
 -->
