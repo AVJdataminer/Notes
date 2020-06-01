@@ -3,7 +3,8 @@
 - Indirect time and costs
 - in order to make it successful
 - cancellation
-- activities of more than 
+- activities of more than 15 mins
+- 
 # 30 May 2020
 ## Creating NB grader assignments
 install main module
@@ -431,7 +432,7 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Set up auto forward from amazon to todoist packages
 - write a program to create raw urls for notes screenshots and all other files on github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYyOTUyMTU1LDE4MTMzNzA3NDIsLTE4OT
+eyJoaXN0b3J5IjpbMjMyODk1NTQzLDE4MTMzNzA3NDIsLTE4OT
 Q5MjgzNSwtOTIzNzU0NDk4LC04MzczOTc5ODcsMTU0MDg0ODIw
 OCwxMjcyNTE0NzkwLC0xOTQyNDA4NTY2LC0xMTQ5NjcxOTcxLC
 01Mjc5ODQ0NDgsMTM0NTQ5NDc4NiwxNTc1NTU2MTEyLC03MzU4
