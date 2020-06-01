@@ -1,4 +1,8 @@
 
+# 01 Jun 202
+- Indirect time and costs
+- 
+- 
 # 30 May 2020
 ## Creating NB grader assignments
 install main module
@@ -426,11 +430,11 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Set up auto forward from amazon to todoist packages
 - write a program to create raw urls for notes screenshots and all other files on github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMzM3MDc0MiwtMTg5NDkyODM1LC05Mj
-M3NTQ0OTgsLTgzNzM5Nzk4NywxNTQwODQ4MjA4LDEyNzI1MTQ3
-OTAsLTE5NDI0MDg1NjYsLTExNDk2NzE5NzEsLTUyNzk4NDQ0OC
-wxMzQ1NDk0Nzg2LDE1NzU1NTYxMTIsLTczNTgyNzIxNiw4NDUy
-NTY5NDEsLTE3MDYzODgxMjQsLTQ1OTAyNTEyOSwxNDE1MTY3Nz
-gyLC05ODczNDIzNzUsLTE4MDI4NzYwMDgsLTcxMTAwODI3MSwx
-MjExNTcwNjc4XX0=
+eyJoaXN0b3J5IjpbMjA3NDEzMzM2NCwxODEzMzcwNzQyLC0xOD
+k0OTI4MzUsLTkyMzc1NDQ5OCwtODM3Mzk3OTg3LDE1NDA4NDgy
+MDgsMTI3MjUxNDc5MCwtMTk0MjQwODU2NiwtMTE0OTY3MTk3MS
+wtNTI3OTg0NDQ4LDEzNDU0OTQ3ODYsMTU3NTU1NjExMiwtNzM1
+ODI3MjE2LDg0NTI1Njk0MSwtMTcwNjM4ODEyNCwtNDU5MDI1MT
+I5LDE0MTUxNjc3ODIsLTk4NzM0MjM3NSwtMTgwMjg3NjAwOCwt
+NzExMDA4MjcxXX0=
 -->
