@@ -10,7 +10,8 @@
 	- number of clients
 	- types of clients
 	- indirect energy and other people in the same compaines
-	- H
+	- Holly from yuppy puppy dog classes
+	- 
 # 30 May 2020
 ## Creating NB grader assignments
 install main module
@@ -438,7 +439,7 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Set up auto forward from amazon to todoist packages
 - write a program to create raw urls for notes screenshots and all other files on github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyODE0MTI5NiwtMjAzMDgzMzA4MCwxMz
+eyJoaXN0b3J5IjpbMTQ5OTc1MTQ3MiwtMjAzMDgzMzA4MCwxMz
 gxNTE2ODcsMjMyODk1NTQzLDE4MTMzNzA3NDIsLTE4OTQ5Mjgz
 NSwtOTIzNzU0NDk4LC04MzczOTc5ODcsMTU0MDg0ODIwOCwxMj
 cyNTE0NzkwLC0xOTQyNDA4NTY2LC0xMTQ5NjcxOTcxLC01Mjc5
