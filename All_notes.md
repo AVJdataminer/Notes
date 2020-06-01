@@ -4,7 +4,8 @@
 - in order to make it successful
 - cancellation
 - activities of more than 15 mins
-- can 
+- Website update
+- which pr
 # 30 May 2020
 ## Creating NB grader assignments
 install main module
@@ -432,11 +433,11 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Set up auto forward from amazon to todoist packages
 - write a program to create raw urls for notes screenshots and all other files on github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MTUxNjg3LDIzMjg5NTU0MywxODEzMz
-cwNzQyLC0xODk0OTI4MzUsLTkyMzc1NDQ5OCwtODM3Mzk3OTg3
-LDE1NDA4NDgyMDgsMTI3MjUxNDc5MCwtMTk0MjQwODU2NiwtMT
-E0OTY3MTk3MSwtNTI3OTg0NDQ4LDEzNDU0OTQ3ODYsMTU3NTU1
-NjExMiwtNzM1ODI3MjE2LDg0NTI1Njk0MSwtMTcwNjM4ODEyNC
-wtNDU5MDI1MTI5LDE0MTUxNjc3ODIsLTk4NzM0MjM3NSwtMTgw
-Mjg3NjAwOF19
+eyJoaXN0b3J5IjpbLTE0MTQwNjc5NTMsMTM4MTUxNjg3LDIzMj
+g5NTU0MywxODEzMzcwNzQyLC0xODk0OTI4MzUsLTkyMzc1NDQ5
+OCwtODM3Mzk3OTg3LDE1NDA4NDgyMDgsMTI3MjUxNDc5MCwtMT
+k0MjQwODU2NiwtMTE0OTY3MTk3MSwtNTI3OTg0NDQ4LDEzNDU0
+OTQ3ODYsMTU3NTU1NjExMiwtNzM1ODI3MjE2LDg0NTI1Njk0MS
+wtMTcwNjM4ODEyNCwtNDU5MDI1MTI5LDE0MTUxNjc3ODIsLTk4
+NzM0MjM3NV19
 -->
