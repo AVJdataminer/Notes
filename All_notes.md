@@ -10,7 +10,8 @@
 	- number of clients
 	- types of clients
 	- indirect energy and other people in the same compaines
-
+	- 
+Proactive Communiaction
 	- Holly from yuppy puppy dog classes
 	- Dog training and boarding
 	- Help me and help you
@@ -442,11 +443,11 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Set up auto forward from amazon to todoist packages
 - write a program to create raw urls for notes screenshots and all other files on github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNzc0Mzg3MSwtMjAzMDgzMzA4MCwxMz
-gxNTE2ODcsMjMyODk1NTQzLDE4MTMzNzA3NDIsLTE4OTQ5Mjgz
-NSwtOTIzNzU0NDk4LC04MzczOTc5ODcsMTU0MDg0ODIwOCwxMj
-cyNTE0NzkwLC0xOTQyNDA4NTY2LC0xMTQ5NjcxOTcxLC01Mjc5
-ODQ0NDgsMTM0NTQ5NDc4NiwxNTc1NTU2MTEyLC03MzU4MjcyMT
-YsODQ1MjU2OTQxLC0xNzA2Mzg4MTI0LC00NTkwMjUxMjksMTQx
-NTE2Nzc4Ml19
+eyJoaXN0b3J5IjpbLTExOTg3MjcxNDEsLTIwMzA4MzMwODAsMT
+M4MTUxNjg3LDIzMjg5NTU0MywxODEzMzcwNzQyLC0xODk0OTI4
+MzUsLTkyMzc1NDQ5OCwtODM3Mzk3OTg3LDE1NDA4NDgyMDgsMT
+I3MjUxNDc5MCwtMTk0MjQwODU2NiwtMTE0OTY3MTk3MSwtNTI3
+OTg0NDQ4LDEzNDU0OTQ3ODYsMTU3NTU1NjExMiwtNzM1ODI3Mj
+E2LDg0NTI1Njk0MSwtMTcwNjM4ODEyNCwtNDU5MDI1MTI5LDE0
+MTUxNjc3ODJdfQ==
 -->
