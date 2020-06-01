@@ -9,6 +9,8 @@
 - Ideal workweek or month
 	- number of clients
 	- types of clients
+	- indirect energy and other people in the same compaines
+	- 
 # 30 May 2020
 ## Creating NB grader assignments
 install main module
@@ -436,11 +438,11 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Set up auto forward from amazon to todoist packages
 - write a program to create raw urls for notes screenshots and all other files on github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0OTk5NzAzNSwxMzgxNTE2ODcsMjMyOD
-k1NTQzLDE4MTMzNzA3NDIsLTE4OTQ5MjgzNSwtOTIzNzU0NDk4
-LC04MzczOTc5ODcsMTU0MDg0ODIwOCwxMjcyNTE0NzkwLC0xOT
-QyNDA4NTY2LC0xMTQ5NjcxOTcxLC01Mjc5ODQ0NDgsMTM0NTQ5
-NDc4NiwxNTc1NTU2MTEyLC03MzU4MjcyMTYsODQ1MjU2OTQxLC
-0xNzA2Mzg4MTI0LC00NTkwMjUxMjksMTQxNTE2Nzc4MiwtOTg3
-MzQyMzc1XX0=
+eyJoaXN0b3J5IjpbLTIwMzA4MzMwODAsMTM4MTUxNjg3LDIzMj
+g5NTU0MywxODEzMzcwNzQyLC0xODk0OTI4MzUsLTkyMzc1NDQ5
+OCwtODM3Mzk3OTg3LDE1NDA4NDgyMDgsMTI3MjUxNDc5MCwtMT
+k0MjQwODU2NiwtMTE0OTY3MTk3MSwtNTI3OTg0NDQ4LDEzNDU0
+OTQ3ODYsMTU3NTU1NjExMiwtNzM1ODI3MjE2LDg0NTI1Njk0MS
+wtMTcwNjM4ODEyNCwtNDU5MDI1MTI5LDE0MTUxNjc3ODIsLTk4
+NzM0MjM3NV19
 -->
