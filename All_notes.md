@@ -1,7 +1,7 @@
 
 # 01 Jun 202
 - Indirect time and costs
-- 
+- in order to make it successful
 - 
 # 30 May 2020
 ## Creating NB grader assignments
@@ -430,11 +430,11 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Set up auto forward from amazon to todoist packages
 - write a program to create raw urls for notes screenshots and all other files on github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NDEzMzM2NCwxODEzMzcwNzQyLC0xOD
-k0OTI4MzUsLTkyMzc1NDQ5OCwtODM3Mzk3OTg3LDE1NDA4NDgy
-MDgsMTI3MjUxNDc5MCwtMTk0MjQwODU2NiwtMTE0OTY3MTk3MS
-wtNTI3OTg0NDQ4LDEzNDU0OTQ3ODYsMTU3NTU1NjExMiwtNzM1
-ODI3MjE2LDg0NTI1Njk0MSwtMTcwNjM4ODEyNCwtNDU5MDI1MT
-I5LDE0MTUxNjc3ODIsLTk4NzM0MjM3NSwtMTgwMjg3NjAwOCwt
-NzExMDA4MjcxXX0=
+eyJoaXN0b3J5IjpbNTg3MTczODAxLDE4MTMzNzA3NDIsLTE4OT
+Q5MjgzNSwtOTIzNzU0NDk4LC04MzczOTc5ODcsMTU0MDg0ODIw
+OCwxMjcyNTE0NzkwLC0xOTQyNDA4NTY2LC0xMTQ5NjcxOTcxLC
+01Mjc5ODQ0NDgsMTM0NTQ5NDc4NiwxNTc1NTU2MTEyLC03MzU4
+MjcyMTYsODQ1MjU2OTQxLC0xNzA2Mzg4MTI0LC00NTkwMjUxMj
+ksMTQxNTE2Nzc4MiwtOTg3MzQyMzc1LC0xODAyODc2MDA4LC03
+MTEwMDgyNzFdfQ==
 -->
