@@ -6,7 +6,9 @@
 - activities of more than 15 mins
 - Website update
 - which projects to include and exclude
-- 
+- Ideal workweek or month
+	- number of clients
+	- types of clients
 # 30 May 2020
 ## Creating NB grader assignments
 install main module
@@ -434,7 +436,7 @@ To save and quit the vi or vim editor with saving any changes you have made:
 - Set up auto forward from amazon to todoist packages
 - write a program to create raw urls for notes screenshots and all other files on github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNTYxNTQ5MCwxMzgxNTE2ODcsMjMyOD
+eyJoaXN0b3J5IjpbMTU0OTk5NzAzNSwxMzgxNTE2ODcsMjMyOD
 k1NTQzLDE4MTMzNzA3NDIsLTE4OTQ5MjgzNSwtOTIzNzU0NDk4
 LC04MzczOTc5ODcsMTU0MDg0ODIwOCwxMjcyNTE0NzkwLC0xOT
 QyNDA4NTY2LC0xMTQ5NjcxOTcxLC01Mjc5ODQ0NDgsMTM0NTQ5
