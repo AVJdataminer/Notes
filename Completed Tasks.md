@@ -1,7 +1,8 @@
 
 |  |  |
 |--|--|
-|  |  - get magazines ready to mail to Mom & Dad
+|  |  
+- get magazines ready to mail to Mom & Dad
     
 -   deposit check from Chase
     
@@ -29,5 +30,5 @@
     |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE5NjE4NjE2XX0=
+eyJoaXN0b3J5IjpbODQ0Njc2OTY2LDQxOTYxODYxNl19
 -->
