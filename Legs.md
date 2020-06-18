@@ -158,37 +158,7 @@ Note that holding the dumbbells above your head (or just holding one with both h
 2.  Extend your right leg in front of you and lower to a lunge, keeping your knee behind the toes and maintaining your balance. Push up to standing and lunge forward on the left leg.
 3.  Repeat, alternating legs for 6 to 8 reps each leg.
 
-#### 12. Leg Push-Offs
 
-###### _(Note: Jump to the 1:32 time stamp in the video above for a demo of this exercise)_
-
-Many are familiar with the bridge exercise. The leg push-off goes a step further, using elevation and a single-leg approach to heighten the burn. These are excellent for targeting the glutes and upper hamstrings.
-
-**How to Perform Leg Push-Offs:**
-
-1.  Begin lying face-up on the floor with one heel propped on a box or bench.
-2.  Lift the other leg with the sole of the foot pointed toward the ceiling.
-3.  Push your free leg toward the ceiling, while straightening the leg that is propped on the box and thrusting your hips upward.
-4.  Repeat for 10 to 15 reps on each leg.
-
-#### 13. Curtsy Squats
-
-[![Bodyweight Curtsy Squats](https://yurielkaim.com/wp-content/uploads/2010/12/Bodyweight-Curtsy-Squats.jpg)](https://yurielkaim.com/wp-content/uploads/2010/12/Bodyweight-Curtsy-Squats.jpg)
-
-Curtsy squats put the burn in your outer thigh and glutes, while also challenging your balance for full-body muscle recruitment.
-
-**How to Curtsy Squat:**
-
-1.  Begin standing tall with your feet hip-width apart.
-2.  Sliding one leg diagonally behind you, lower into a lunge.
-3.  Press to standing and do the same on the opposite leg.
-4.  Repeat for 10 to 15 reps on each leg.
-
-## Strengthen Your Legs Fast
-
-The beauty of these exercises to strengthen leg muscles lies not only in their ability to sculpt and strengthen legs in record time, but also in the fact that they don’t require fancy gym equipment.
-
-Regularly incorporating these into your routine will do wonders for building strength. Plus, the fact that they’re functional exercises will whittle away excess fat by revving your heart rate and increasing your metabolic rate.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzg4MzA0MzFdfQ==
+eyJoaXN0b3J5IjpbMTI0MDEzMTg5NV19
 -->
