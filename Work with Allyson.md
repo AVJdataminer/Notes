@@ -1,8 +1,10 @@
 
 ## 14JUL
-Discussed looking at a Lasso Regression 
-Looked at the Random Forest Regression feature importances
-Tried a rebuild with top 50 features, not any better performance.
+### For next time
+- Discussed testing a Lasso Regression 
+- Discussed testing a clustering method such as agglomerative or hierechical clustering as well.
+- Looked at the Random Forest Regression feature importances
+- Tried a rebuild with top 50 features, not any better performance.
 
 ### For next time [feature importances code](https://github.com/AVJdataminer/pathsun/blob/master/notebooks/Pathrise_DW_outdated.ipynb)
 
@@ -11,5 +13,5 @@ pw:push
 pw:Aj2020+shift123
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMTU3NjQ1MCwtMTI4MzE4MzU5Ml19
+eyJoaXN0b3J5IjpbLTQ5MTcyNDMwOSwtMTI4MzE4MzU5Ml19
 -->
