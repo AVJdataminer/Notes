@@ -20,6 +20,8 @@ StatTheGit is a python based tool to fetch, maintain, and display GitHub clone a
 
 ## Step 1 — Clone the repository
 
+git clone [https://github.com/aqeelanwar/StatTheGit.git](https://github.com/aqeelanwar/StatTheGit.git)
+
 ## Step 2 — Install the required packages
 
 cd StatTheGit  
@@ -32,9 +34,9 @@ python fetch_stats.py \
 --username <GitHub Username> \  
 --RepoNames <Repository name>
 
-![](https://miro.medium.com/max/60/1*me-EiUH1fFQa0NkKwk2s3A.png?q=20)
+![Image for post](https://miro.medium.com/max/60/1*me-EiUH1fFQa0NkKwk2s3A.png?q=20)
 
-![](https://miro.medium.com/max/552/1*me-EiUH1fFQa0NkKwk2s3A.png)
+![Image for post](https://miro.medium.com/max/1892/1*me-EiUH1fFQa0NkKwk2s3A.png)
 
 Arguments detail for python file fetch_the_stats.py
 
@@ -62,7 +64,9 @@ Running fetch_stats.py will create a folder repo_stats/<username> in the parent 
 |    |    |-- PEDRA.txt  
 |    |    |-- SocialDistancingAI.txt
 
-![](https://miro.medium.com/max/60/1*pZTGX8EuxiWhX2Rczy56Fw.png?q=20)
+![Image for post](https://miro.medium.com/max/60/1*pZTGX8EuxiWhX2Rczy56Fw.png?q=20)
+
+![Image for post](https://miro.medium.com/max/1268/1*pZTGX8EuxiWhX2Rczy56Fw.png)
 
 Example text file of repository statistics — SocialDistancingAI.txt
 
@@ -78,7 +82,9 @@ python display_stats.py \
 
 This will open up a browser tab for each repository under consideration and display an interactive graph of the repository clone and views statistics
 
-![](https://miro.medium.com/freeze/max/60/1*uQNPsEtbTXkzYKBKOkU1mQ.gif?q=20)
+![Image for post](https://miro.medium.com/freeze/max/60/1*uQNPsEtbTXkzYKBKOkU1mQ.gif?q=20)
+
+![Image for post](https://miro.medium.com/max/800/1*uQNPsEtbTXkzYKBKOkU1mQ.gif)
 
 **Online Graphs:**  To display these graphs on your website, you need to host them at your Plotly account. Following steps can be taken
 
@@ -95,7 +101,9 @@ python display_stats.py \
 
 Running this command will open up the graphs for each considered repository in the web browser. To display these graphs on your website, you can copy the iframe or HTML code (based on your website design) and use it on your website.
 
-![](https://miro.medium.com/freeze/max/60/1*JU708gFZd6gQFu0odVGTBQ.gif?q=20)
+![Image for post](https://miro.medium.com/freeze/max/60/1*JU708gFZd6gQFu0odVGTBQ.gif?q=20)
+
+![Image for post](https://miro.medium.com/max/800/1*JU708gFZd6gQFu0odVGTBQ.gif)
 
 The link will not change when you run the command again and the graphs displayed on your websites will automatically get updated hence omitting the need of copy-pasting the link again.
 
@@ -118,5 +126,5 @@ This will automatically update the graphs.
 
 [StatTheGit](https://github.com/aqeelanwar/StatTheGit)  can be used to maintain and automatically update the  **life-long** statistics of your GitHub repositories on your website.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4OTc1MTc3NV19
+eyJoaXN0b3J5IjpbMjMyMjM0NTQ5LC04ODk3NTE3NzVdfQ==
 -->
