@@ -20,14 +20,14 @@ Your submission is complete and includes all requested pieces including:
 
 **Understanding and Process**
 
-You successfully identified an audience of team managers and owners and those involved in soccer player trading in general. The data utilized in the project shows an understanding of how to acquire, wrangle, merge, and clean very messy data. Data sets were well-chosen and relevant to the problem; given there was not a previously collated data set with all the informaiton needed to complete this type of analysis. You successfully stepped through the process of data wrangling, EDA, feature creation and feature selection, model development, and model selection. More discussion on how many features were included in the final model would have been helpful. Based on the figure in your report only a subset of somewhere between 10-15 features should have been included in your final model for that scenario.
+You successfully identified an audience of team managers and owners and those involved in soccer player trading in general. The data utilized in the project shows an understanding of how to acquire, wrangle, merge, and clean very messy data. Data sets were well-chosen and relevant to the problem; given there was not a previously collated data set with all the informaiton needed to complete this type of analysis. You successfully stepped through the process of data wrangling, EDA, feature creation and feature selection, model development, and model selection. More discussion on how some of your findings could inform decision makers could add to depth of your project but overall it is very well done.
 
   
 
 **Presentation**
 
-The slide deck presents the motivations and recommendations clearly and impact fully, utilizing visuals. Perhaps create two slides for the EDA work; there is alot of information on the one slide. The takeaways slide is quite helpful and wraps all the finer points up nicely.
+The slide deck presents the motivations clearly and 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNDY1MDYzMCwtMTQ0MDIxMDIzNCwxNj
+eyJoaXN0b3J5IjpbLTQ4NDM3MjQyMywtMTQ0MDIxMDIzNCwxNj
 I0MDk5NDAxLC0yODA2MzMxODldfQ==
 -->
