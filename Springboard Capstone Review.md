@@ -26,8 +26,8 @@ You successfully identified an audience of team managers and owners and those in
 
 **Presentation**
 
-The slide deck presents the motivations clearly and 
+The slide deck cleary presents the motivations of your data project. The EDA visualizations are very informative and bring the audience along with your data investigation process. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NDM3MjQyMywtMTQ0MDIxMDIzNCwxNj
-I0MDk5NDAxLC0yODA2MzMxODldfQ==
+eyJoaXN0b3J5IjpbNjYwODEzMjIyLC0xNDQwMjEwMjM0LDE2Mj
+QwOTk0MDEsLTI4MDYzMzE4OV19
 -->
