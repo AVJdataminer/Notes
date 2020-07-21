@@ -8,9 +8,9 @@ Great job! You completed a capstone project with sufficient breadth and depth to
 
 Your submission is complete and includes all requested pieces including:
 
-- The submission includes code for the project, submitted as a Jupyter notebooks in your Github repository.
+- The submission includes code for the project, submitted as a Jupyter notebooks, organized by each step in the project in your Github repository.
 
-- The submission includes a 11 page slide deck presentation submitted as pdf document. This presentation combines thorough descriptions and well planned out data visualizations to provide a solid overview of the modeling outcomes and potential considerations by users.
+- The submission includes a 11 page slide deck presentation submitted as pdf document. This presentation combines thorough descriptions and well planned out data visualizations to provide a solid overview of the statistical findings and modeling outcomes.
 
 - The submission includes a 9-page report submitted as a pdf on the Github repo and is based on all previous project submissions. You created a report that is very well constructed and that most readers can follow regardless of their technical abilities. Nice work on this.
 
@@ -28,6 +28,6 @@ You successfully identified an audience of team managers and owners and those in
 
 The slide deck cleary presents the motivations of your data project. The EDA visualizations are very informative and bring the audience along with your data investigation process. A slide with a table comparing the model performance metrics on the test set would be a nice addition.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjE3MjE3NjMsLTE0NDAyMTAyMzQsMT
+eyJoaXN0b3J5IjpbLTE3NzU1MTk5MjQsLTE0NDAyMTAyMzQsMT
 YyNDA5OTQwMSwtMjgwNjMzMTg5XX0=
 -->
