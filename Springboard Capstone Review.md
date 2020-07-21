@@ -10,7 +10,7 @@ Your submission is complete and includes all requested pieces including:
 
 - The submission includes code for the project, submitted as a Jupyter notebook in your Github repository.
 
-- The submission includes a 14 page slide deck presentation submitted as pptx document. This presentation combines thorough descriptions and well planned out data visualizations to provide a solid overview of the modeling outcomes and potential considerations by users.
+- The submission includes a 11 page slide deck presentation submitted as pptx document. This presentation combines thorough descriptions and well planned out data visualizations to provide a solid overview of the modeling outcomes and potential considerations by users.
 
 - The submission includes a 13-page report submitted as a pdf on the Github repo and is based on all previous project submissions. You created a report that is very well constructed and that most readers can follow regardless of their technical abilities. Nice work on this.
 
@@ -28,5 +28,6 @@ You successfully identified an audience of local governements and those involved
 
 The slide deck presents the motivations and recommendations clearly and impact fully, utilizing visuals. Perhaps create two slides for the EDA work; there is alot of information on the one slide. The takeaways slide is quite helpful and wraps all the finer points up nicely.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNDA5OTQwMSwtMjgwNjMzMTg5XX0=
+eyJoaXN0b3J5IjpbLTE0NDAyMTAyMzQsMTYyNDA5OTQwMSwtMj
+gwNjMzMTg5XX0=
 -->
