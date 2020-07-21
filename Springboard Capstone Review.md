@@ -2,7 +2,6 @@
 **Summary**
 
 Great job! You completed a capstone project with sufficient breadth and depth to demonstrate data science skills presented in the course, including skills in programming, exploratory data analysis, and communication of the project process. Additionally, this is a cohesive project that is ready to be utilized as a core part of your professional portfolio.
-
   
 
 **Completion**
@@ -29,5 +28,5 @@ You successfully identified an audience of local governements and those involved
 
 The slide deck presents the motivations and recommendations clearly and impact fully, utilizing visuals. Perhaps create two slides for the EDA work; there is alot of information on the one slide. The takeaways slide is quite helpful and wraps all the finer points up nicely.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MDYzMzE4OV19
+eyJoaXN0b3J5IjpbMTYyNDA5OTQwMSwtMjgwNjMzMTg5XX0=
 -->
